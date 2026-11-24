@@ -1,18 +1,7 @@
 {
   "run_date": "2026-11-24",
   "added": [],
-  "id_migrations": [
-    {
-      "new_id": "8IQIld8DI9OPD00dqio1lDQ1bq6Q6P6D",
-      "old_id": "d6Doi9oi600lP9lI9iiO8q68li8iOO8D",
-      "title": "朱と碧のランページ"
-    },
-    {
-      "new_id": "8QoODoOldQ9Dodlb9I86liOb0lP010ql",
-      "old_id": "qQb09PdOD61ioPPdD9DbIil9iQQii1q1",
-      "title": "リメンバーリメンバー"
-    }
-  ],
+  "id_migrations": [],
   "updated": [],
   "tombstoned": [],
   "manual_maps_applied": [
@@ -30,7 +19,7 @@
     }
   ],
   "enrichment_fills": {
-    "artist": 1463,
+    "artist": 1480,
     "bpm": 1480,
     "notecounts": 1480
   }
