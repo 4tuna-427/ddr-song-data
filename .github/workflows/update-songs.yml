@@ -19,7 +19,7 @@ on:
 permissions:
   contents: write # パイプラインの状態（master / キャッシュ）をコミットするため
   pages: write
-  id-token: <redacted>
+  id-token: write
   issues: write # 失敗時に Issue を立てるため
 
 concurrency:

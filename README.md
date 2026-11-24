@@ -1,68 +1,62 @@
-# DDR song data — automatic update pipeline
+# DDR Song Data API
 
-Replaces the manual input stage of ddr-song-data. Daily, on GitHub
-Actions, it fetches three public sources, merges them, applies the
-diff to the master dataset, and commits the result.
+DDR（Dance Dance Revolution）の楽曲・譜面データを、公開ソースから自動収集してJSON形式に変換し、GitHub Pagesを利用して配信（CDN化）するリポジトリです。
 
-## Sources and what each is trusted for
+## 🚀 API エンドポイント
 
-| Source | Role |
-|---|---|
-| Official e-amusement ALL MUSIC list | Resident songs: ID, title, artist, non-Challenge levels |
-| RemyWiki (MediaWiki API) | BPM, length, note counts, first DDR version, Challenge levels, newest songs |
-| BEMANIWiki removed-songs list | Deletion detection (tombstones) |
+最新の楽曲データ（JSON）は、以下のURLからいつでも取得できます。
 
-Rules learned the hard way (Phases 0–2):
+```text
+https://4tuna-427.github.io/ddr-song-data/songs.json
+```
 
-- The official list does **not** carry event/unlock songs and does not
-  display WORLD-added Challenge charts. Absence from the official list
-  is never treated as deletion.
-- A song is tombstoned (`deleted_at` set, record kept) only when it
-  appears on BEMANIWiki's removed list **and** is not back on the
-  official list (revived songs exist, e.g. シル・ヴ・プレジデント).
-- Songs only RemyWiki knows get a provisional ID (`remy-<slug>`,
-  `id_status: "provisional"` in the v2 master). When the official list
-  picks the song up, add an entry to `phase3/id_migrations.json` to
-  merge the provisional record into the official ID.
+*(※GitHub PagesはデフォルトでCORSが許可されているため、外部のWebアプリなどから直接読み込み可能です)*
 
-## Layout
+BPM・ノーツ数・初出バージョンなどを含む拡張版（v2形式）は、リポジトリ内の `phase3/out/songs_v2.json` にあります。
 
-- `scripts/` — fetchers, merger, diff-apply engine (run in the order
-  given in `.github/workflows/update-songs.yml`)
-- `phase3/master.json` — the v2 master dataset (state; committed)
-- `phase3/out/songs.json` — v1-compatible delivery (same schema as the
-  current songs.json: string levels, `created_at` / `updated_at` /
-  `deleted_at`)
-- `phase3/out/songs_v2.json` — v2 delivery (BPM, note counts, flags)
-- `phase3/changelog-<date>.json` — per-run record of what changed
-- `phase3/manual_title_map.json` — title → RemyWiki page for songs
-  automated matching cannot resolve (notation variants)
-- `phase3/id_migrations.json` — old ID → new ID merges
-- `phase3/availability_overrides.json` — user-confirmed availability
-  classes (limited-time event songs, EXTRA SAVIOR unlocks, scheduled
-  removals) that no source publishes in structured form
+## 💡 データの取得例 (JavaScript)
 
-## Timestamps policy
+```javascript
+fetch("https://4tuna-427.github.io/ddr-song-data/songs.json")
+  .then(response => response.json())
+  .then(data => {
+    console.log("楽曲データを取得しました:", data);
+  })
+  .catch(error => {
+    console.error("エラーが発生しました:", error);
+  });
+```
 
-- `created_at`: first date the pipeline detected the song. Songs that
-  predate the pipeline keep `""` (unknown).
-- `updated_at`: bumped only when a gameplay field (levels, title,
-  version) changes. Enrichment fills (artist, BPM, note counts) are
-  counted in the changelog but do not bump `updated_at`.
+## ⚙️ データの更新タイミング
 
-## First run
+GitHub Actionsにより、以下のタイミングで自動的に最新データがJSONに反映されます。
 
-With no `phase3/master.json`, the engine bootstraps against the live
-songs.json (see `CURRENT_URL` in `scripts/run_pipeline.py` — change it
-if the delivery URL changes). The run is idempotent: running it twice
-in a row produces no further changes.
+- **定期自動更新**: 毎�� 午前3:00 (JST)
+- **手動更新**: GitHubの `Actions` タブ ＞ `Update and Deploy Songs Data` ＞ `Run workflow` から手動で即時反映
+- **プッシュ時**: このリポジトリのスクリプトや設定ファイルを更新した時
 
-## Politeness
+## 🔧 システムの仕組み
 
-- Official site: once a day, ≥1s between pages, descriptive UA. On
-  fetch failure the job stops and the previous data keeps being served.
-- RemyWiki: API only, descriptive UA, page wikitext cached in
-  `phase2/remy_pages.json` (committed, so daily runs fetch only new
-  pages).
-- Never scrape Zenius (robots.txt disallows it), Sanbai, or Skill
-  Attack; never use login-gated pages.
+1. GitHub Actions が一時サーバーを立ち上げ、3つの公開ソースからデータを取得
+   - **公式 e-amusement ALL MUSIC リスト**: 収録曲のID・タイトル・アーティスト・難易度（Challenge以外）
+   - **RemyWiki**（MediaWiki API）: BPM・曲の長さ・ノーツ数・初出バージョン・Challenge難易度・最新追加曲
+   - **BEMANIWiki 削除曲リスト**: 削除された曲の検出
+2. 取得データを統合し、前回のマスタデータとの差分を適用（追加・レベル変更・削除を検出して `created_at` / `updated_at` / `deleted_at` を自動で管理。削除された曲はデータから消さず、`deleted_at` を付けて残します）
+3. 状態（マスタデータ・変更履歴）をGitにコミット
+4. 配信ファイル `dist/songs.json` を生成し、GitHub Pages にデプロイ
+
+取得に失敗した場合はコミットもデプロイも行われず、前日のデータが配信され続けます（あわせてIssueが自動で作成されます）。
+
+### データソースについての方針
+
+- 公式リストにはイベント解禁曲などが載らないため、「公式リストに無い＝削除」とは扱いません。削除の判定はBEMANIWikiの削除曲リストへの掲載をもって行います（復活した曲を誤判定しないための確認付き）
+- 公式リストにまだ載っていない新曲は、RemyWikiの情報で仮ID（`remy-` 始まり）のまま先行収録し、公式リストに載った時点で正規IDへ自動マージできるようになっています
+- 各ソースへは1日1回・低頻度でアクセスし、取得元の規約・robots.txtに従います
+
+## 📝 運用メモ
+
+- 曲ごとの手動対応付け: `phase3/manual_title_map.json`（表記ゆれで自動突合できない曲）
+- IDが変わった曲の対応表: `phase3/id_migrations.json`
+- 期間限定イベント曲・EXTRA SAVIOR解禁曲などの区分: `phase3/availability_overrides.json`
+- 次バージョン（AC DDR STOMP等）への追随手順: `NEXT_VERSION.md`
+- 変更履歴は `phase3/changelog-*.json` に実行日ごとに残ります
