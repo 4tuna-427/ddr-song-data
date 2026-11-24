@@ -19,7 +19,10 @@ on the first run, the live songs.json is the baseline (bootstrap).
 
 Outputs:
   phase3/master.json            v2 master (full enriched schema)
-  phase3/out/songs.json         v1-compatible delivery (current schema)
+  phase3/out/songs.json         delivery file, same content as master.json
+                                (the delivery URL switched from the
+                                v1-compatible schema to the full v2 schema;
+                                the only consumer reads v2 natively)
   phase3/out/songs_v2.json      same content as master.json
   phase3/changelog-<date>.json  what changed in this run
 """
@@ -36,7 +39,7 @@ MANUAL_MAP = "phase3/manual_title_map.json"
 MIGRATIONS = "phase3/id_migrations.json"
 REMOVED_HTML = "phase3/bemani_removed.html"
 MASTER = "phase3/master.json"
-OUT_V1 = "phase3/out/songs.json"
+OUT_DELIVERY = "phase3/out/songs.json"
 OUT_V2 = "phase3/out/songs_v2.json"
 CURRENT_URL = "https://4tuna-427.github.io/ddr-song-data/songs.json"
 
@@ -192,9 +195,14 @@ def main() -> int:
     except FileNotFoundError:
         live = json.load(urllib.request.urlopen(CURRENT_URL))
         prev = {s["id"]: s for s in live}
-        prev_levels = {i: levels_of_v1(s) for i, s in prev.items()}
-        prev_created = {i: "" for i in prev}
-        prev_updated = {i: "" for i in prev}
+        # The live delivery may be either schema: v2 rows nest levels
+        # under "levels", legacy v1 rows use flat *_level keys.
+        prev_levels = {
+            i: (s["levels"] if isinstance(s.get("levels"), dict) else levels_of_v1(s))
+            for i, s in prev.items()
+        }
+        prev_created = {i: s.get("created_at", "") for i, s in prev.items()}
+        prev_updated = {i: s.get("updated_at", "") for i, s in prev.items()}
         bootstrap = True
     # Migrated songs keep their history under the new ID.
     for mig in migrations:
@@ -246,26 +254,11 @@ def main() -> int:
     json.dump(master, open(MASTER, "w"), ensure_ascii=False, indent=2)
     json.dump(master, open(OUT_V2, "w"), ensure_ascii=False, indent=2)
 
-    # 6) v1-compatible delivery.
-    v1 = []
-    for e in master:
-        row = {
-            "id": e["id"], "title": e["title"], "title_sort": "",
-            "artist": e.get("artist") or "",
-            "version": e.get("version_current") or e.get("version_remy_first_ddr") or "",
-            "aliases": "",
-        }
-        for lk, v1k in V1_LEVEL_MAP.items():
-            val = e["levels"].get(lk) if e["levels"] else None
-            row[v1k] = "" if val is None else str(val)
-        row["double_beginner_level"] = ""
-        row["phash_8"] = e.get("phash_8") or ""
-        row["phash_16"] = e.get("phash_16") or ""
-        row["created_at"] = e.get("created_at", "")
-        row["updated_at"] = e.get("updated_at", "")
-        row["deleted_at"] = e.get("deleted_at", "")
-        v1.append(row)
-    json.dump(v1, open(OUT_V1, "w"), ensure_ascii=False, indent=2)
+    # 6) Delivery: songs.json carries the full v2 schema (same content as
+    # master.json). The former v1-compatible conversion was retired — the
+    # only consumer of the delivery URL reads v2 natively, and keeping a
+    # lossy conversion only hid the notecounts from it.
+    json.dump(master, open(OUT_DELIVERY, "w"), ensure_ascii=False, indent=2)
 
     clog_path = f"phase3/changelog-{run_date.replace('-', '')}.json"
     json.dump(changelog, open(clog_path, "w"), ensure_ascii=False, indent=2)

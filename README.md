@@ -12,7 +12,7 @@ https://4tuna-427.github.io/ddr-song-data/songs.json
 
 *(※GitHub PagesはデフォルトでCORSが許可されているため、外部のWebアプリなどから直接読み込み可能です)*
 
-BPM・ノーツ数・初出バージョンなどを含む拡張版（v2形式）は、リポジトリ内の `phase3/out/songs_v2.json` にあります。
+配信中の songs.json は、BPM・ノーツ数・初出バージョンなどを含む v2 形式です（旧 v1 互換形式から切り替え済み）。リポジトリ内の `phase3/out/songs_v2.json` も同じ内容です。
 
 ## 💡 データの取得例 (JavaScript)
 

@@ -57,6 +57,10 @@ def official_levels(s: dict) -> dict:
 
 
 def current_levels(s: dict) -> dict:
+    # The live delivery used to be the flat v1 schema; it now carries the
+    # v2 schema (levels nested under "levels"). Accept both.
+    if isinstance(s.get("levels"), dict):
+        return {k: s["levels"].get(k) for k in LEVEL_KEYS}
     def v(k):
         x = s.get(k, "")
         return None if x == "" else int(x)
@@ -67,6 +71,12 @@ def current_levels(s: dict) -> dict:
         "dp_difficult": v("double_difficult_level"), "dp_expert": v("double_expert_level"),
         "dp_challenge": v("double_challenge_level"),
     }
+
+
+def current_version(s: dict) -> str:
+    # v1 rows carry "version"; v2 rows carry the folder version as
+    # "version_current" (fall back to the RemyWiki first appearance).
+    return s.get("version") or s.get("version_current") or s.get("version_remy_first_ddr") or ""
 
 
 def remy_artist(cache_text: str):
@@ -160,17 +170,17 @@ def main() -> int:
                          "current": cur_lv[k], "remy": remy_lv[k]})
         if cur and r and r["first_ddr_version"]:
             # current version strings: 'A20 PLUS', '2013', '1st'... compare loosely
-            cv = cur["version"].replace("X3 vs 2nd", "X3").replace("SuperNOVA2", "SuperNOVA2")
+            cv = current_version(cur).replace("X3 vs 2nd", "X3").replace("SuperNOVA2", "SuperNOVA2")
             if norm_title(cv) != norm_title(r["first_ddr_version"]):
                 report["version_mismatches_vs_current"].append(
-                    {"id": sid, "title": title, "current": cur["version"],
+                    {"id": sid, "title": title, "current": current_version(cur),
                      "remy_first_ddr": r["first_ddr_version"]})
 
         enriched.append({
             "id": sid,
             "title": title,
             "artist": (off["artist"] if off else None) or (remy_artist(cache.get(r["page"], "")) if r else None) or "",
-            "version_current": cur["version"] if cur else None,
+            "version_current": current_version(cur) if cur else None,
             "version_remy_first_ddr": r["first_ddr_version"] if r else None,
             "bpm": r["bpm"] if r else None,
             "length": r["length"] if r else None,
