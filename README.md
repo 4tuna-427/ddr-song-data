@@ -31,7 +31,7 @@ fetch("https://4tuna-427.github.io/ddr-song-data/songs.json")
 
 GitHub Actionsにより、以下のタイミングで自動的に最新データがJSONに反映されます。
 
-- **定期自動更新**: 毎�� 午前3:00 (JST)
+- **定期自動更新**: 毎日 午前3:00 (JST)
 - **手動更新**: GitHubの `Actions` タブ ＞ `Update and Deploy Songs Data` ＞ `Run workflow` から手動で即時反映
 - **プッシュ時**: このリポジトリのスクリプトや設定ファイルを更新した時
 
