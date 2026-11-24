@@ -72,7 +72,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add phase3/master.json phase3/out phase3/changelog-*.json phase2/remy_pages.json
+          git add phase3/master.json phase3/out phase3/changelog-*.json phase2/remy_pages.json phase1/remy_world_full_list.txt phase3/bemani_removed.html
           if git diff --cached --quiet; then
             echo "no state changes"
           else

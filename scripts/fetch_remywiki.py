@@ -75,16 +75,31 @@ def fetch_pages(pages: list[str], cache_path: str) -> dict:
     s.headers.update(UA)
     for k in range(0, len(todo), 40):
         batch = todo[k : k + 40]
-        r = s.get(
-            API,
-            params={
-                "action": "query", "format": "json", "prop": "revisions",
-                "titles": "|".join(batch), "rvprop": "content",
-                "rvslots": "main", "redirects": 1, "maxlag": 5,
-            },
-            timeout=120,
-        )
-        r.raise_for_status()
+        r = None
+        for attempt in range(3):
+            try:
+                r = s.get(
+                    API,
+                    params={
+                        "action": "query", "format": "json", "prop": "revisions",
+                        "titles": "|".join(batch), "rvprop": "content",
+                        "rvslots": "main", "redirects": 1, "maxlag": 5,
+                    },
+                    timeout=120,
+                )
+                r.raise_for_status()
+                break
+            except Exception as e:  # noqa: BLE001
+                print(f"  batch {k}: attempt {attempt + 1} failed: {e}",
+                      file=sys.stderr)
+                r = None
+                time.sleep(5 * (attempt + 1))
+        if r is None:
+            # Leave these pages uncached for this run; songs still come
+            # from the official list / previous delivery, and the next
+            # run retries. Do not abort the whole pipeline.
+            print(f"  batch {k}: skipped after retries", file=sys.stderr)
+            continue
         d = r.json()
         q = d.get("query", {})
         chain = {}
