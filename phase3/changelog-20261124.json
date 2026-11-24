@@ -1,0 +1,557 @@
+{
+  "run_date": "2026-11-24",
+  "added": [
+    {
+      "id": "d96IPPo0P9olIOilQ0di9IQ0Iqddb6Iq",
+      "title": "アニマトロニクス",
+      "source": "official"
+    },
+    {
+      "id": "Q96ld98IPIld98Iq18bqblldOoP91d69",
+      "title": "オーバーライド",
+      "source": "official"
+    },
+    {
+      "id": "Pd0DloPI90iQQqO9bdbbPq6Q8iP0l6Pi",
+      "title": "ギミギミエンターテイメント",
+      "source": "official"
+    },
+    {
+      "id": "o8Ib0Qbbd1oQl1qD8DoIDOodOq1l1ld9",
+      "title": "三妖精SAY YA!!!",
+      "source": "official"
+    },
+    {
+      "id": "dI68Oq96DdIib8o9D80dIdO0i90Q9bDb",
+      "title": "ジェヘナ",
+      "source": "official"
+    },
+    {
+      "id": "dodDld060D0QDioqiI0d8Dl111DIDbio",
+      "title": "テトリス",
+      "source": "official"
+    },
+    {
+      "id": "i9Qo61dD9lloDIO6OlI9o6oOiDd1d9i1",
+      "title": "天狗の落とし文 (feat. ｙｔｒ)",
+      "source": "official"
+    },
+    {
+      "id": "IdQODl09O66oi0D0o61qdidI8q99Q0iP",
+      "title": "ハイパーダンスにゃんにゃん",
+      "source": "official"
+    },
+    {
+      "id": "dd81906PbD1PbllP86198ql0PQPPol96",
+      "title": "マツヨイナイトバグ",
+      "source": "official"
+    },
+    {
+      "id": "86qbo0Iq81qqQiP0i0OoOP09q1qPlDdl",
+      "title": "夢色ワンダー",
+      "source": "official"
+    },
+    {
+      "id": "P8bQol68qoDbi90D06lQloiP9b09ddDQ",
+      "title": "ライアーダンサー",
+      "source": "official"
+    },
+    {
+      "id": "l8D81qIboObo9DD080dQiQQID0dbdl6O",
+      "title": "ラグトレイン",
+      "source": "official"
+    },
+    {
+      "id": "O6oddiQq6ddDiilIi1lbi0PQi9dQ8O16",
+      "title": "DATA STREAM",
+      "source": "official"
+    },
+    {
+      "id": "PdOq6bQQ6I8P866i0bbDI9IdD6IddQil",
+      "title": "Ex-Otogibanashi",
+      "source": "official"
+    },
+    {
+      "id": "PI60Dbq8o9IbPPl09OO166b6o1ooI68D",
+      "title": "Good Life",
+      "source": "official"
+    },
+    {
+      "id": "8id60dlDD69oPDI1DolDI1QboOdio6Pi",
+      "title": "hustle machine",
+      "source": "official"
+    },
+    {
+      "id": "I69b1IOq8Qqi6iIo11Il98P9qiOP6q1I",
+      "title": "One Kiss",
+      "source": "official"
+    },
+    {
+      "id": "81P1D8qqDq8bDIi80odd6PQ1ObPDDbII",
+      "title": "snooze",
+      "source": "official"
+    },
+    {
+      "id": "qPdoiOIld0I81dIqO0OoDIP6Ib8lQ9Il",
+      "title": "Ultimate taste",
+      "source": "official"
+    },
+    {
+      "id": "remy-ill-starred-diver",
+      "title": "ILL-STARRED Diver",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-nostalgic-blood-of-the-strife",
+      "title": "Nostalgic Blood of the Strife",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-princess-k",
+      "title": "Princess K",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-awa-de-kono-yo-wo",
+      "title": "アワデコノヨヲ",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-8ismuth-overdriv3",
+      "title": "8ISMUTH OVERDRIV3",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-bring-me-back",
+      "title": "Bring Me Back",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-decryption",
+      "title": "Decryption",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-dual-bladez",
+      "title": "Dual Bladez",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-easy-peasy-squeezy",
+      "title": "Easy Peasy Squeezy",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-eyesight",
+      "title": "eyesight",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-i-ll-be-with-you",
+      "title": "I'll Be With You",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-miserable-life-and-worthless-thoughts",
+      "title": "miserable life and worthless thoughts",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-monstafesta",
+      "title": "MonstaFesta",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-neu-stardom-remix",
+      "title": "neu (STARDOM Remix)",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-steps-for-victory-u1-heavy-metal-edition",
+      "title": "Steps for Victory (U1 Heavy Metal Edition)",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-turning-down",
+      "title": "TURNING DOWN",
+      "source": "remywiki"
+    },
+    {
+      "id": "remy-nagisa-no-koakuma-lovely-radio-stardom-remix",
+      "title": "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)",
+      "source": "remywiki"
+    }
+  ],
+  "id_migrations": [
+    {
+      "new_id": "8IQIld8DI9OPD00dqio1lDQ1bq6Q6P6D",
+      "old_id": "d6Doi9oi600lP9lI9iiO8q68li8iOO8D",
+      "title": "朱と碧のランページ"
+    },
+    {
+      "new_id": "8QoODoOldQ9Dodlb9I86liOb0lP010ql",
+      "old_id": "qQb09PdOD61ioPPdD9DbIil9iQQii1q1",
+      "title": "リメンバーリメンバー"
+    }
+  ],
+  "updated": [
+    {
+      "id": "oQolO9oOO01ll0I8969i8O1IQliloDqP",
+      "title": "エンドルフィン",
+      "fields": {
+        "sp_challenge": [
+          null,
+          17
+        ],
+        "dp_challenge": [
+          null,
+          17
+        ]
+      }
+    },
+    {
+      "id": "oQ0bqIQ8DdPlilO000DQloOo6Od8IdQ6",
+      "title": "Bloody Tears(IIDX EDITION)",
+      "fields": {
+        "sp_challenge": [
+          null,
+          16
+        ],
+        "dp_challenge": [
+          null,
+          16
+        ]
+      }
+    },
+    {
+      "id": "QbD9QQP9bqoD00bQQl8obibP9PloQ9Qo",
+      "title": "Boss Rush",
+      "fields": {
+        "sp_challenge": [
+          null,
+          18
+        ],
+        "dp_challenge": [
+          null,
+          18
+        ]
+      }
+    },
+    {
+      "id": "Iqo9PQiPbq8Q0I6io6lPIDi608lQqbbq",
+      "title": "CaptivAte～誓い～",
+      "fields": {
+        "sp_challenge": [
+          null,
+          15
+        ],
+        "dp_challenge": [
+          null,
+          15
+        ]
+      }
+    },
+    {
+      "id": "9dD6dlq01qd80loD6OOQb60ql6P6068O",
+      "title": "Destination",
+      "fields": {
+        "sp_challenge": [
+          null,
+          17
+        ],
+        "dp_challenge": [
+          null,
+          17
+        ]
+      }
+    },
+    {
+      "id": "PD9lP16dllbPqbdIO0Ii0I8D1I90QIIl",
+      "title": "Dragon Blade",
+      "fields": {
+        "dp_challenge": [
+          17,
+          18
+        ]
+      }
+    },
+    {
+      "id": "8O0D9P6l9P9ooQdODioDIdQPq6DiDlbl",
+      "title": "DROP THE BOMB",
+      "fields": {
+        "sp_challenge": [
+          null,
+          14
+        ],
+        "dp_challenge": [
+          null,
+          14
+        ]
+      }
+    },
+    {
+      "id": "PlqI9Q1I6qdqb0IolOl1qP0bOQP0ibPP",
+      "title": "FIRE",
+      "fields": {
+        "sp_challenge": [
+          null,
+          16
+        ],
+        "dp_challenge": [
+          null,
+          16
+        ]
+      }
+    },
+    {
+      "id": "Dq0Iio09Pb9iD0lbb0I0qd8Q8i10II09",
+      "title": "GENOM SCREAMS",
+      "fields": {
+        "sp_challenge": [
+          null,
+          15
+        ],
+        "dp_challenge": [
+          null,
+          16
+        ]
+      }
+    },
+    {
+      "id": "9OP0iqDD8PDIb8lblD0ol09oP1I1d9PO",
+      "title": "Happy",
+      "fields": {
+        "sp_difficult": [
+          9,
+          8
+        ]
+      }
+    },
+    {
+      "id": "9IOdDPPO1IIPD9oDbOPo0Qo99Ii6Q8oi",
+      "title": "LA BAMBA",
+      "fields": {
+        "sp_challenge": [
+          null,
+          13
+        ],
+        "dp_challenge": [
+          null,
+          13
+        ]
+      }
+    },
+    {
+      "id": "qbQ9I1bI6q91Q18DlDlI1Qdi8q6Qlo91",
+      "title": "La Bamba",
+      "fields": {
+        "sp_challenge": [
+          null,
+          13
+        ],
+        "dp_challenge": [
+          null,
+          13
+        ]
+      }
+    },
+    {
+      "id": "bl90QbiqoOlDI6iQQQdo0Iol6PIdQblP",
+      "title": "Pursuer",
+      "fields": {
+        "sp_challenge": [
+          null,
+          18
+        ],
+        "dp_challenge": [
+          null,
+          18
+        ]
+      }
+    },
+    {
+      "id": "qbDidIlodPP6PqI00D18P6dDbioIdDPD",
+      "title": "rainbow flyer",
+      "fields": {
+        "sp_challenge": [
+          null,
+          16
+        ],
+        "dp_challenge": [
+          null,
+          16
+        ]
+      }
+    },
+    {
+      "id": "o9l8Id0D1lQdl1o9DDIPbO6q998lq8bd",
+      "title": "Saturday Night Love",
+      "fields": {
+        "sp_challenge": [
+          null,
+          12
+        ],
+        "dp_challenge": [
+          null,
+          12
+        ]
+      }
+    },
+    {
+      "id": "QOPioi8P81q9l0QiP6q06b06bdOO8b1O",
+      "title": "S!ck",
+      "fields": {
+        "sp_challenge": [
+          null,
+          18
+        ],
+        "dp_challenge": [
+          null,
+          18
+        ]
+      }
+    },
+    {
+      "id": "ODQOP1dblD6q8d160Ioi0dIoQloI6oQO",
+      "title": "THE SHINING POLARIS",
+      "fields": {
+        "sp_challenge": [
+          null,
+          12
+        ],
+        "dp_challenge": [
+          null,
+          12
+        ]
+      }
+    },
+    {
+      "id": "bilO9D91P1lo81oIDP6qOoqdDdQdoDlP",
+      "title": "Truare!",
+      "fields": {
+        "sp_challenge": [
+          null,
+          18
+        ],
+        "dp_challenge": [
+          null,
+          18
+        ]
+      }
+    },
+    {
+      "id": "q8o866OdqqDPOQdO88D1DOdbqQo1q8Q1",
+      "title": "VALLIS-NERIA",
+      "fields": {
+        "sp_challenge": [
+          null,
+          18
+        ],
+        "dp_challenge": [
+          null,
+          18
+        ]
+      }
+    },
+    {
+      "id": "PqPPDibPdD8qd88D0d01dqo6918b0POD",
+      "title": "Votum stellarum -forest #25 DDR RMX-",
+      "fields": {
+        "sp_challenge": [
+          null,
+          17
+        ],
+        "dp_challenge": [
+          null,
+          17
+        ]
+      }
+    },
+    {
+      "id": "0P6PI0QP9b91QOlIibodd9IO90PbQO6I",
+      "title": "Bye or not",
+      "fields": {
+        "sp_challenge": [
+          null,
+          16
+        ],
+        "dp_challenge": [
+          null,
+          16
+        ]
+      }
+    },
+    {
+      "id": "o1biqbO9i1IiObD0d1D8d8iqb6q86Qqi",
+      "title": "Daisycutter",
+      "fields": {
+        "sp_challenge": [
+          null,
+          17
+        ],
+        "dp_challenge": [
+          null,
+          17
+        ]
+      }
+    },
+    {
+      "id": "oQq061q091Q16iOO9b8d9d0P9080qP6q",
+      "title": "なんてシュペール",
+      "fields": {
+        "dp_difficult": [
+          10,
+          11
+        ]
+      }
+    },
+    {
+      "id": "PdD1dlq1q00q8o9Il6IIqi61Il9DIo61",
+      "title": "疾風迅雷",
+      "fields": {
+        "sp_challenge": [
+          null,
+          18
+        ],
+        "dp_challenge": [
+          null,
+          18
+        ]
+      }
+    },
+    {
+      "id": "0QOP6QqdlobOo9i8O6dOl8IdQl89P6PP",
+      "title": "ZENDEGI DANCE",
+      "fields": {
+        "sp_challenge": [
+          null,
+          17
+        ],
+        "dp_challenge": [
+          null,
+          17
+        ]
+      }
+    }
+  ],
+  "tombstoned": [],
+  "manual_maps_applied": [
+    {
+      "title": "CANDY♡",
+      "page": "CANDY (Riyu Kosaka)"
+    },
+    {
+      "title": "RЁVOLUTIФN",
+      "page": "REVOLUTION"
+    },
+    {
+      "title": "チルノのパーフェクトさんすう学園【ビートまりお】",
+      "page": "Cirno no perfect sansuu gakuen"
+    }
+  ],
+  "enrichment_fills": {
+    "artist": 1463,
+    "bpm": 1480,
+    "notecounts": 1480
+  }
+}

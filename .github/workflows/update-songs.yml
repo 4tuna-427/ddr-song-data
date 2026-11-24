@@ -1,10 +1,14 @@
 name: Update and Deploy Songs Data
 
+# Route A replacement for the GAS-based workflow.
+# Daily: fetch official list + RemyWiki + BEMANIWiki removed list,
+# merge, apply diffs to the master, commit the state back to the repo,
+# and deploy dist/songs.json to GitHub Pages (same URL as before).
 on:
   schedule:
     # 毎日 午前3時 (UTC 18:00) に自動更新
     - cron: '0 18 * * *'
-  workflow_dispatch: # GitHub画面から手動実行可能にする
+  workflow_dispatch: # GitHub画面から手動実行可能
   push:
     branches:
       - main
@@ -12,11 +16,11 @@ on:
       - 'scripts/**'
       - '.github/workflows/**'
 
-# GitHub Pages へのデプロイ権限を設定
 permissions:
-  contents: read
+  contents: write # パイプラインの状態（master / キャッシュ）をコミットするため
   pages: write
-  id-token: write
+  id-token: <redacted>
+  issues: write # 失敗時に Issue を立てるため
 
 concurrency:
   group: 'pages'
@@ -32,23 +36,65 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install -r requirements.txt
 
-      - name: Fetch and generate JSON
-        env:
-          GAS_API_URL: ${{ secrets.GAS_API_URL }}
+      # If any fetch fails, the job stops here: nothing is committed
+      # and Pages keeps serving the previous deployment.
+      - name: Fetch official ALL MUSIC list
+        run: python scripts/fetch_official.py phase0/official_songs.json
+
+      - name: Fetch RemyWiki full song list (index)
+        run: python scripts/fetch_full_list.py
+
+      - name: Fetch and parse RemyWiki song pages
+        run: python scripts/fetch_remywiki.py
+
+      - name: Fetch BEMANIWiki removed-songs list
+        run: python scripts/fetch_bemani_removed.py
+
+      - name: Merge sources
+        run: python scripts/build_enriched.py
+
+      - name: Apply diffs (add / update / tombstone)
+        run: python scripts/run_pipeline.py
+
+      - name: Prepare delivery file (same path as the GAS version)
         run: |
-          python scripts/fetch_songs.py
+          mkdir -p dist
+          cp phase3/out/songs.json dist/songs.json
+
+      - name: Commit pipeline state if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add phase3/master.json phase3/out phase3/changelog-*.json phase2/remy_pages.json
+          if git diff --cached --quiet; then
+            echo "no state changes"
+          else
+            git commit -m "data: daily update $(date -u +%F)"
+            git push
+          fi
 
       - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'dist'
+
+      # On failure nothing is committed and Pages is not redeployed,
+      # so the previous data keeps being served. This issue is the alarm.
+      - name: Open an issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "pipeline failed: $(date -u +%F)" \
+            --body "The daily update workflow failed. The previous data is still being served. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
   deploy:
     environment:
