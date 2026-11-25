@@ -25,6 +25,9 @@ KV writes go through the bulk API. The Workers KV free plan allows
 1,000 writes/day, so a per-run budget (--max-writes, default 900) keeps
 the run inside it: the initial load (~1,450 jackets) spans two daily
 runs, then only diffs remain. Deletes count against the same budget.
+If the account-wide daily cap is still hit (error 10048 — e.g. several
+runs in one UTC day), the script stops gracefully: progress so far is
+saved, the exit code stays 0, and the next run continues the backlog.
 
 Credentials come from the environment: CF_API_TOKEN, CF_ACCOUNT_ID,
 KV_NAMESPACE_ID. Without them the script prints the plan and exits 0,
@@ -119,6 +122,14 @@ def fetch_jacket(song: dict) -> tuple[bytes, str] | None:
         return None
 
 
+class DailyLimitReached(Exception):
+    """The KV free plan's daily write cap (error 10048) is exhausted.
+
+    Expected during the initial bulk load, not an error: the caller
+    stops gracefully, saves progress, and the next run continues after
+    the cap resets (00:00 UTC)."""
+
+
 class KvClient:
     def __init__(self, account: str, namespace: str, token: str):
         self.base = (f"https://api.cloudflare.com/client/v4/accounts/{account}"
@@ -133,9 +144,14 @@ class KvClient:
                 r = requests.request(method, self.base, headers=self.headers,
                                      json=payload, timeout=60)
                 body = r.json() if r.content else {}
+                errors = body.get("errors") or []
+                if any(e.get("code") == 10048 for e in errors):
+                    raise DailyLimitReached(f"KV daily write limit reached: {errors}")
                 if r.status_code in (429, 500, 502, 503, 504) or not body.get("success", False):
-                    raise RuntimeError(f"KV {method} failed: {r.status_code} {body.get('errors')}")
+                    raise RuntimeError(f"KV {method} failed: {r.status_code} {errors}")
                 return
+            except DailyLimitReached:
+                raise
             except Exception as e:  # noqa: BLE001 - retried below
                 last = e
                 time.sleep(2 * (attempt + 1))
@@ -197,67 +213,98 @@ def main() -> int:
     if args.dry_run:
         return 0
 
+    def save_progress() -> None:
+        with open(args.state, "w") as f:
+            json.dump(state, f, ensure_ascii=False, indent=1, sort_keys=True)
+        valid = {sid for sid, rec in state.items() if rec.get("v") == 2}
+        for s in master:
+            s["jacket"] = s["id"] in valid
+        with open(args.master, "w") as f:
+            json.dump(master, f, ensure_ascii=False, indent=2)
+        with open(args.out, "w") as f:
+            json.dump(master, f, ensure_ascii=False, indent=2)
+
     writes = 0
+    limited = False
     # Deletes first (they free nothing quota-wise, but keep state truthful).
     if to_delete and writes < args.max_writes:
         batch = to_delete[: args.max_writes - writes]
-        if kv:
-            kv.delete_many(batch)
-        for sid in batch:
-            state.pop(sid, None)
-        writes += len(batch)
-        print(f"deleted={len(batch)}")
+        try:
+            if kv:
+                kv.delete_many(batch)
+            for sid in batch:
+                state.pop(sid, None)
+            writes += len(batch)
+            print(f"deleted={len(batch)}")
+        except DailyLimitReached:
+            limited = True
+            print("KV daily write limit already reached; nothing deleted.")
 
     fetched = 0
     failed = 0
     local_written = 0
-    pending: list[dict] = []
-    for song in to_fetch:
-        # Budget = KV writes spent so far: flushed batches + queued puts
-        # (+ files written in local mode). Count each song exactly once.
-        if writes + len(pending) + local_written >= args.max_writes:
-            break
-        got = fetch_jacket(song)
-        if got is None:
-            failed += 1
-            continue
-        data, source = got
-        digest = hashlib.sha256(data).hexdigest()
-        if args.local_dir:
-            os.makedirs(args.local_dir, exist_ok=True)
-            with open(os.path.join(args.local_dir, f"{song['id']}.jpg"), "wb") as f:
-                f.write(data)
-            local_written += 1
-        else:
-            pending.append({
-                "key": song["id"],
-                "value": base64.b64encode(data).decode(),
-                # Without this, KV stores the base64 text itself instead
-                # of the decoded image bytes.
-                "base64": True,
-                "metadata": {"content_type": "image/jpeg"},
-            })
-        state[song["id"]] = {"source": source, "sha256": digest, "bytes": len(data), "v": 2}
-        fetched += 1
-        if len(pending) >= BATCH:
-            kv.put_many(pending)
-            writes += len(pending)
+    # (payload, state record) pairs; records merge into state only after
+    # their batch PUT succeeds, so a stopped run never claims progress
+    # that did not land in KV.
+    pending: list[tuple[dict, dict]] = []
+
+    def flush() -> bool:
+        """PUT queued items. Returns False when the daily limit stops us."""
+        nonlocal writes, pending
+        if not pending:
+            return True
+        try:
+            kv.put_many([p for p, _ in pending])
+        except DailyLimitReached:
             pending = []
-    if pending:
-        kv.put_many(pending)
+            return False
+        for payload, record in pending:
+            state[payload["key"]] = record
         writes += len(pending)
+        pending = []
+        save_progress()  # checkpoint: a later failure must not lose this
+        return True
+
+    if not limited:
+        for song in to_fetch:
+            # Budget = KV writes spent so far: flushed batches + queued
+            # puts (+ files written in local mode). Count each song once.
+            if writes + len(pending) + local_written >= args.max_writes:
+                break
+            got = fetch_jacket(song)
+            if got is None:
+                failed += 1
+                continue
+            data, source = got
+            record = {"source": source, "sha256": hashlib.sha256(data).hexdigest(),
+                      "bytes": len(data), "v": 2}
+            if args.local_dir:
+                os.makedirs(args.local_dir, exist_ok=True)
+                with open(os.path.join(args.local_dir, f"{song['id']}.jpg"), "wb") as f:
+                    f.write(data)
+                local_written += 1
+                state[song["id"]] = record
+            else:
+                pending.append(({
+                    "key": song["id"],
+                    "value": base64.b64encode(data).decode(),
+                    # Without this, KV stores the base64 text itself
+                    # instead of the decoded image bytes.
+                    "base64": True,
+                    "metadata": {"content_type": "image/jpeg"},
+                }, record))
+            fetched += 1
+            if len(pending) >= BATCH and not flush():
+                limited = True
+                break
+        if pending and not flush():
+            limited = True
     print(f"fetched={fetched} failed_no_source={failed} writes_used={writes}")
+    if limited:
+        print("KV daily write limit reached: stopping here. Progress is "
+              "saved; the next run continues after the cap resets (00:00 UTC).")
 
-    with open(args.state, "w") as f:
-        json.dump(state, f, ensure_ascii=False, indent=1, sort_keys=True)
-
-    valid = {sid for sid, rec in state.items() if rec.get("v") == 2}
-    for s in master:
-        s["jacket"] = s["id"] in valid
-    with open(args.master, "w") as f:
-        json.dump(master, f, ensure_ascii=False, indent=2)
-    with open(args.out, "w") as f:
-        json.dump(master, f, ensure_ascii=False, indent=2)
+    save_progress()
     print(f"jacket flags set: {sum(1 for s in master if s['jacket'])}/{len(master)}")
     return 0
 
