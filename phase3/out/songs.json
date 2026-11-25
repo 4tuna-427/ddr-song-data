@@ -70,7 +70,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IQ0dIiDql9Q68d9ddQIiQbq1OPq8Db69",
@@ -143,7 +143,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "006i1i6OOl1bPdql9ID8o6QQ6IIiqP0P",
@@ -289,7 +289,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dPb99qdqOQ1ioQ9Dqb1I9Q1bI0l0POII",
@@ -362,7 +362,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i9Pidb18b9O8bdqQ91QQP0oPdIdIODq1",
@@ -435,7 +435,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q96bO9D61lib19IiIi0i69P80bo6q69Q",
@@ -508,7 +508,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "loD8qPl09qqi0o1iqbbDOdllDblioDIl",
@@ -581,7 +581,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "08QQ8iPldb6o96bl0ld61qb99Q0Q19Qd",
@@ -727,7 +727,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0IIO08bII0QQDOdobqbl8Ib8Q8O8q1li",
@@ -946,7 +946,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Pqdb6bI66o9896lDbDq1Pi1Dl9QqO6Pd",
@@ -1019,7 +1019,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dd98lDdo8Ob698d9qbO9iD0PqO19oQbI",
@@ -1092,7 +1092,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "id9oObq9P6Q6Pq6lQPqI88OP1DD8D0O1",
@@ -1165,7 +1165,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-8ismuth-overdriv3",
@@ -1311,7 +1311,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oIb699q80OIPdlP0odl6bqbD0PlQodOq",
@@ -1384,7 +1384,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dQoqo68881IiO9i00bP0q1lOD6i1PdD8",
@@ -1457,7 +1457,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l0QP6DiIDIId0oiQiOl8q10DlI96OPiO",
@@ -1530,7 +1530,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DibQ8O0bIodbdQo8D681qlqiDqllDPql",
@@ -1603,7 +1603,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O0O1lPoIIIQ9lbOi90odI0Di80qq16lo",
@@ -1676,7 +1676,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0DDo1ilPDQoIoPd8ol9OPO1IPbi9ii6d",
@@ -1895,7 +1895,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o81iq91q6lI6OODP9Pb9OboDlQD9Q08d",
@@ -1968,7 +1968,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Pd99DQo0bD9D9oIbPIId18P6l8qlDQO6",
@@ -2041,7 +2041,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "18911Q6o6do9Dd1blIo6IliPd0PPb99i",
@@ -2187,7 +2187,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P01qbiIoO6dqIIqo6Db9dqq1bI6ddbqI",
@@ -2260,7 +2260,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Qo9P1oOoDQIoOb8Dd0PdOdoD1D1Pbd8D",
@@ -2333,7 +2333,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OO1O10bDI6OP0O1OlOlI6qQDiPIdidbO",
@@ -2406,7 +2406,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Io196q006I86IllQPOb098qd1DQd60Oq",
@@ -2479,7 +2479,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ddq1DldlQ990iidO6O99q61bI1966Q0I",
@@ -2552,7 +2552,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oIPb0iPd8OdDD181dQd8OI18OQDl01QO",
@@ -2625,7 +2625,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6d8DiDl0i1oldbbo0o60PQ0q96d608Dq",
@@ -2771,7 +2771,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Oo91QPdQDd1Od1oQI6IIldbQ1lQ88bO0",
@@ -2844,7 +2844,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dQ1oPoQqD0db8O19P1P0D1oq8I68i1Id",
@@ -2917,7 +2917,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "808dq8OIq16PP19i1bP0IDP1OqPOlo6q",
@@ -3063,7 +3063,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1q6Qoi0lldP6qoQI9PI199d6P0Q96ld0",
@@ -3282,7 +3282,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iQ9qQ8Iob108iPD9D0bdoIol0d81IOdo",
@@ -3355,7 +3355,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lldbbOQiIOQPbiqDD9ibl9OD1o660dlO",
@@ -3428,7 +3428,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OQO1Di8IQIQqP1d81d1ID9QD110b0888",
@@ -3501,7 +3501,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q0qQO0P8818lIoo0boO66O0qd09dIlO8",
@@ -3574,7 +3574,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l61ldlPo1DQ081860O86D0Qo0qdOd0qP",
@@ -3647,7 +3647,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q8QPqbiQ00i6odq81P0D960I108bIiQb",
@@ -3793,7 +3793,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IQ6I61i1b0Ob01QiQlld8o09iIQPoPOl",
@@ -3866,7 +3866,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "blld8o09oQo80PIIoIdbP9688DIqlbdb",
@@ -3939,7 +3939,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9IQoPbOidod8I0qQ989Ql60D09I99q1Q",
@@ -4085,7 +4085,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6obQo6d0oQ6QoQql0I60b81IO8IOl1IO",
@@ -4304,7 +4304,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bdbQoi98Dlb18DiPDPdD801DoOD8619O",
@@ -4377,7 +4377,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "86IOiO9PlqoQoPD1I811bb6PI80OQ601",
@@ -4519,7 +4519,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lq6DqO1o99Q1OdbDPl9loO0P0O8d8loO",
@@ -4592,7 +4592,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "00qIiO99Q18biD8bQ6d1QOooDP00O1Od",
@@ -4884,7 +4884,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D89QP18016o01qoOi60I6Q19dlOQPbdo",
@@ -4957,7 +4957,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DDQ9q1dd0lob0iOo9iql1boPoIq8ioDo",
@@ -5030,7 +5030,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6qdbqO66oOo1Q0d6I10IIIbQI9D1dDP6",
@@ -5176,7 +5176,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "688O16o80Iib0DPI8oQOIOdbIdQq0P1Q",
@@ -5395,7 +5395,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6QdIl8odooDQ0oOQ0IObQqo1lO986PP6",
@@ -5541,7 +5541,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9DoD10OPQ999IlP0doo69olbOQ680q09",
@@ -5687,7 +5687,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6Qq1q91q8iIPlI89qDq96bO8QDD0qOql",
@@ -5979,7 +5979,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P8P1dlqi9D111iIDPOP0l9DIO1l6lqO9",
@@ -6052,7 +6052,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ObP1P1OoDII9b9ll698Q981ilIddb8Id",
@@ -6125,7 +6125,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9ib91bdq6i11l69d081qDD989Q0qO0qI",
@@ -6271,7 +6271,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "66P0q8Ibddl9q669b6bD6Ood9IOQbDPI",
@@ -6417,7 +6417,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o9P816l0QQ1b9l1l6i1o6OD9bl9dP00l",
@@ -6490,7 +6490,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OO1oqdIPP80QdoP11QP61OdDb0lI1qIq",
@@ -6563,7 +6563,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b0dIdlPD6IDQ000l6lIoO9oD1IQiqQ6I",
@@ -6636,7 +6636,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I9Ob6PlIiOQl6iQ6qO6QO0iQ1ld9DDO0",
@@ -6709,7 +6709,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qQd06O6d19ODl0QP8l6Q8lPlloo69ddP",
@@ -6855,7 +6855,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oo1P6l616OOdl0IqPPqobPI0Il81qqii",
@@ -7001,7 +7001,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O8Qb086QQIQ109d1lqilOQ9QD8lPIqdd",
@@ -7074,7 +7074,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9OOIPiqDooPb1QQ900QODl60dqbP8Dib",
@@ -7220,7 +7220,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "91ioD99OdDD9db8qilod818OPqb88idQ",
@@ -7366,7 +7366,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d11l6160iiP1bDbQPQl0Pi8lddlld80i",
@@ -7439,7 +7439,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6l0iQ18D0I00P89lIqI8bl9biIOi018O",
@@ -7585,7 +7585,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DbPodlqiOQdD88bo8lPO9D6iql1DO8P0",
@@ -7658,7 +7658,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iIP09bOq1l1b9b1l011IDIQ6Iill90Io",
@@ -7731,7 +7731,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bIqioQdiOOblbqD0P99P0liodP8i0880",
@@ -7804,7 +7804,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ii6Oooool0IoOqi1qdDo96QIil6IoOq0",
@@ -7877,7 +7877,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QdbPPPDlIQiI191qPdblO01O8P8o6D68",
@@ -7950,7 +7950,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i86qD6Pl61dPI0Q9db1P8bl1ii99q1lD",
@@ -8023,7 +8023,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IqPq866IQD0liq9lOl00qDqiPlq9bOD0",
@@ -8096,7 +8096,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bqqIiO96di90bdP0QD1biD8DoDQIddOD",
@@ -8169,7 +8169,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8Q8dP1odl1D9lIbiIO86OPPIoq6qPP1l",
@@ -8388,7 +8388,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lii9bbbIq08b6DIdQ16Q0QOPiOibliIO",
@@ -8461,7 +8461,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oloPOQPQ8Q8IQQoiO9bqdDOo8o6OQ6qI",
@@ -8611,7 +8611,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O0DDiq9DQlI9iq861lOoo1d1DI8qqd6d",
@@ -8684,7 +8684,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DDPPb680Pd1Do0I0899Qq18OIIqiP06D",
@@ -8757,7 +8757,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dOb880lOloIIod00PQ1iQOQqlOOQ0Ql0",
@@ -8830,7 +8830,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d18DI8bO1lql60Ol1dqQlI8qIobl191P",
@@ -8903,7 +8903,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d0IiI99IlI00lq606l68qOIl8PidiOlO",
@@ -8976,7 +8976,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DqoQD9iDodq9Iq108l119OQ1olOPi6D1",
@@ -9049,7 +9049,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8dqQDblP6dPI10qq10qiPbqi1llQ06iP",
@@ -9487,7 +9487,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8ol0OblD9I9oiPQd0Pd8Oii81O8lQqoo",
@@ -9633,7 +9633,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qb9Q8d8q6q8DQ61iDl1DP8iQO9oIqidI",
@@ -9775,7 +9775,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PO68qOQI1oo8iQidQ9iIi9o9PPOD9OP6",
@@ -9848,7 +9848,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dbIQ6o1lDi1OqqdO60q0lqqD9qPD0qlP",
@@ -9921,7 +9921,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "18ibQ9qbqOI91Q1iiiOd990OPo1q1dPI",
@@ -10067,7 +10067,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l81l981iPod0PDIIObIldoQb6Ol9o1Iq",
@@ -10140,7 +10140,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D0dI08oDqi11Oo819D6ob1dlDbPlIPl0",
@@ -10432,7 +10432,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0P6PI0QP9b91QOlIibodd9IO90PbQO6I",
@@ -10578,7 +10578,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ioi6db99oOPPDd1db888D6oi6bb06o0P",
@@ -10651,7 +10651,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8IdP90DQDi9bqodPqDQIIqOqOO08PPio",
@@ -10797,7 +10797,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1idPoQOiI8611P01Oddo1D19lQO8dQdl",
@@ -10943,7 +10943,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0qP01Q60boPPlQ8qO6O6q89iI91Pl0PP",
@@ -11162,7 +11162,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O6q1o06Po9lQbqOl08Io1obqQ9QPi09b",
@@ -11235,7 +11235,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bd8o99iPI9lqOl1Q8P68lbQOlo8Oq1qO",
@@ -11308,7 +11308,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qD8Q180QlIi11o1IiI6DPoqolqoD61Ib",
@@ -11527,7 +11527,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ioDOIO9iP8qqPiP9io9Ib1I91OoQ0q0O",
@@ -11600,7 +11600,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P600DiDIlPQ1Ql9DI8QlI6P8il1oOQd6",
@@ -11673,7 +11673,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ilqiIlDdiQQ0oOIP8bPobDQqP0O90Q08",
@@ -11746,7 +11746,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O11olQOQIOOqdo1IbPP8iDDqIP0b1Dl6",
@@ -11819,7 +11819,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "68oQQ8lO1qbi0qI8lbO60bP1098qOD88",
@@ -11965,7 +11965,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q0o8olIPb1iOo0loPPQI0PddI0qlb1Db",
@@ -12038,7 +12038,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "od0idqqoq6lb9qIo9iOblo6D8q18DQDb",
@@ -12111,7 +12111,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ilIbq9Db1d86PIo0b96qdd0oPOQ6bqi1",
@@ -12184,7 +12184,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "di9ddbd1lb80q98ODdod0ODQ0q6PdQP1",
@@ -12257,7 +12257,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "doQI0i6lQbOo66DOi6olPqOPqIqO8Qd1",
@@ -12330,7 +12330,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "68dqbIdOiiiiddlbb1OD66qq6d80I6D8",
@@ -12549,7 +12549,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P6id8qqolbP0oqO060OOqbl60DI9iQoQ",
@@ -12622,7 +12622,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q1q8IlPI1111D8IqiQ190qIoP0b0bIIo",
@@ -12841,7 +12841,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P8obb0oQq1lbb6Do01PPDI1o8ooO6Pb0",
@@ -12914,7 +12914,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0Pd8il0PQd80i1O01i1D9960IdqoQo01",
@@ -13133,7 +13133,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d18bbq1l699OP9Di6q8oqD9oPb1o1P6I",
@@ -13206,7 +13206,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6OiD0q6O8qi6oDbQ18Ilo8do8biDD1ll",
@@ -13352,7 +13352,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d91lIllbboPd668QP88I06Q6QqooQiO1",
@@ -13425,7 +13425,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0ill9Po6Db090biqIlD1I9lo6PO8lQQ9",
@@ -13571,7 +13571,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "odOQ1d1i6oil81b1QIDP6dOqqdooD918",
@@ -13644,7 +13644,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O8oPP6D8OQq1Q6Q860dqlOi6609bO1lD",
@@ -13717,7 +13717,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qi0lbbDIo8Qlo9IiD8oqqo69DIPQ1IIO",
@@ -13863,7 +13863,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oIII9lI0q6i9Q0b18ldoI6o0PQ0qqD01",
@@ -13936,7 +13936,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "919bPoOo9QO6dODOI6d0loO6qo6OqDlI",
@@ -14228,7 +14228,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1Dd0b8lIQOd011qqOPiq1QDbDqod9Od8",
@@ -14374,7 +14374,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9QIo1lbD1ldlqPO0iD68io69Pd8b01Do",
@@ -14670,7 +14670,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OdQqDiIDbD6ioi60ob6lDOlD8oio9l0b",
@@ -14743,7 +14743,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oP8iIdilQ0QiDllqDbDIOl0iQPd9PQ9I",
@@ -14816,7 +14816,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "18d0iP6oIQQIb6IIOi99iDQ116bbP9I9",
@@ -15035,7 +15035,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iQo0QOoI6bOPQlbb9ldOo9lbdD1idiOO",
@@ -15108,7 +15108,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1O9P1DqQQqObOQPP6Il989qDqi0bQ8Qb",
@@ -15254,7 +15254,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9PoQqIP0D6lPIq9obl1db9IqD0D09i80",
@@ -15400,7 +15400,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8dbiodDo1i6IolDQdqdOoqDDD90q6liQ",
@@ -15546,7 +15546,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dQODIo01o98oPll086Qdol8bq9QP8d61",
@@ -15619,7 +15619,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P98dl8qdoilqbPqIO86ood601o1696D8",
@@ -15692,7 +15692,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PooiIP8qP0IPd9D1Ibi6l9bDoqdi9P8O",
@@ -15765,7 +15765,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i6bl89d6OOi1O00qlQOIl8b8Qld6IiQP",
@@ -15838,7 +15838,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "98q8616ddDIqdo1dbqbO0Po96oldo1Oo",
@@ -15984,7 +15984,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Pdlib1o06DD6oIbdIdIoIqQqO8P896do",
@@ -16057,7 +16057,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0dOOOolo0P6180OQDo16DdO6o6D8O8lQ",
@@ -16203,7 +16203,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8Pb6oPdbO6lo8lbiQ181IDidI9ll8q80",
@@ -16349,7 +16349,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lldPQPDP0qq8iqQ910l8b8PoQ6O668Q0",
@@ -16422,7 +16422,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8bqd0Oibbo8q81QdODqdl1OOi1l99O88",
@@ -16568,7 +16568,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q0OiPQQ8IbIDq08IO9Io0qDdoDPPdd1q",
@@ -16641,7 +16641,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d0P01d9q8oOd8OP1bQPoqlq96906PqPD",
@@ -16714,7 +16714,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8O0D9P6l9P9ooQdODioDIdQPq6DiDlbl",
@@ -16860,7 +16860,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9b60DI1OQddDI6D9D1qPoDPODD19Db8d",
@@ -17006,7 +17006,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1QIPID18qib8D9Oo9lOo8I6DPi9qiod6",
@@ -17152,7 +17152,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ldlqDQ0bb8d9do86o898P0qo1OlD88qD",
@@ -17225,7 +17225,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o1biqbO9i1IiObD0d1D8d8iqb6q86Qqi",
@@ -17371,7 +17371,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I8ql1i90i80oDO0Q9qdIliIqPq66lQd0",
@@ -17444,7 +17444,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "98D001P6b696O18P8qiIOl811bq1oQ16",
@@ -17736,7 +17736,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QbI1i8Q8o06qQQIqllQ6091l998D0qIi",
@@ -17809,7 +17809,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oQ91qO6Dii66bO69I9ooIQD101Dl68Qi",
@@ -17882,7 +17882,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OIdoib69Di68bloq1bb0oblbb00l1P9Q",
@@ -17955,7 +17955,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1dldQ1il1O89O8Ol0Ib0Dq8Pl8ol111I",
@@ -18174,7 +18174,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ddOqqDI91bqqiOoll6I0i16i1P18019q",
@@ -18247,7 +18247,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IPdDlblblqO1do9IQbDoi0iOoPDoiDlI",
@@ -18320,7 +18320,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "69l8lOiooPPPqb9Io9Il01dPD0Q988Iq",
@@ -18458,7 +18458,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6iO8d9ld00I6lDIO6qbOldP99oqloqb9",
@@ -18604,7 +18604,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qqdlo1QOQo6QIi8PqOi8iIOO0il1IblQ",
@@ -18754,7 +18754,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "il0QbI6IOIidllO108olqd8i9Pb1Oq8Q",
@@ -18827,7 +18827,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-decryption",
@@ -19119,7 +19119,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9dD6dlq01qd80loD6OOQb60ql6P6068O",
@@ -19338,7 +19338,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "19b01l0QPiDlDQb6lqd0dQ8Qlld6Dl6l",
@@ -19484,7 +19484,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1i81dQboQ91QbdO9d6bQ1Pi00dPP01li",
@@ -19630,7 +19630,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6i000qlo9PD9oi9I9Qb990D6D9i19699",
@@ -19849,7 +19849,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OO0QbD9D6QQIb10Q9IDOQd8odb6ob6qP",
@@ -19922,7 +19922,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iQ0qQP11I8I9D9oIdllbP6989PDiiPoI",
@@ -19995,7 +19995,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1q6obddbql8lQdPI19liD6PdQ0dPIODd",
@@ -20214,7 +20214,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D6ll81qoDDPIq0d89O69dIQIldQdQoId",
@@ -20360,7 +20360,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "89ooi0i98Qlq9PloIl1b190DIo8Do16l",
@@ -20506,7 +20506,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "08PiiDq6b1oQ8OIIbDql0bDbIID0b1iP",
@@ -20725,7 +20725,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "00o6QPq0Qdl8IQolO80q6dD86696O6ob",
@@ -20871,7 +20871,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dd6lP00DPqIb0d6iqOdlO08l69l6q1di",
@@ -20944,7 +20944,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9i0q91lPPiO61b9P891O1i86iOP1I08O",
@@ -21090,7 +21090,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d8oDqIQOoD6DQoQbOIP9I6DPPOl89lo6",
@@ -21163,7 +21163,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PO9Pl1q896bDDl89qQb98D80DQoPio1I",
@@ -21236,7 +21236,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Doo9l68ddi11PQOOd6o11Q9Dd1lIQ9I6",
@@ -21309,7 +21309,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dDIbQIPo0PIoIP6lbbl8q9Q1Q8ib9P18",
@@ -21382,7 +21382,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iiIblq9IDiOill8qdI68OOIPq6OPdiDo",
@@ -21455,7 +21455,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-easy-peasy-squeezy",
@@ -21674,7 +21674,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "96Qo1idlD9o8q9qIdiDl18l0O06Qo108",
@@ -21893,7 +21893,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q99q619i0lDqll6Q0lq8l1oQ0qPO8o6I",
@@ -21966,7 +21966,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "li0IboIqq8qddDP0Oi1Q9i8OPoD88IQl",
@@ -22039,7 +22039,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OiIOPd80d9PQQIbidO6ObioboO88OD9l",
@@ -22112,7 +22112,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b60odbPO1IQd6d0qPIi1dQODq16i9811",
@@ -22185,7 +22185,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OdlOPPblPlbbldOdqblI06Dd1q00PPo9",
@@ -22258,7 +22258,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1i10oIqlooQbOqO9qiodbIliilP1I06b",
@@ -22404,7 +22404,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1PQiP6D6IqP016dqb8qPq86Q1o8bQq6q",
@@ -22550,7 +22550,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Qb6PqOQO8Qd8i91D018olPiD01PbQ061",
@@ -22623,7 +22623,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0dD8bq9QiD1DO0Io118idQoiP6PP900d",
@@ -22769,7 +22769,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "61Q6Q8OOiiQIbIi0l6l10qQ0Ii8P0Qb6",
@@ -22988,7 +22988,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ObIOQ6id8DOdlQlil8819ObqoDQIIoiO",
@@ -23061,7 +23061,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PlqI9Q1I6qdqb0IolOl1qP0bOQP0ibPP",
@@ -23134,7 +23134,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0ibD9Oio99IlQ0di916lId0bi08IPD9b",
@@ -23353,7 +23353,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9i6dOd608qb0IlqoDIPb8q1o8q1ddQQd",
@@ -23572,7 +23572,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O6llIdODQD6oDQ6QiPQDOlob9i8l6qib",
@@ -23645,7 +23645,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8QbqP80q9PI8bbi0qOoiibOQD08OPdli",
@@ -23864,7 +23864,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qOdib0OIO1qOdiQiOi9qIiQiO91idbQq",
@@ -24014,7 +24014,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OQ6o9D6ldd0iqoqoQQ0QbIi01DI9dO6b",
@@ -24087,7 +24087,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "liiPP608Oqbbb1Do88DPolOlQiq0Di60",
@@ -24160,7 +24160,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DiqobPO1iliqP6DbQiDodPIPDiQO96dl",
@@ -24233,7 +24233,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qqDOddP66Ol1q1IIOb1OPO68DP1ood1i",
@@ -24452,7 +24452,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9Di9ODOOl8PDQiO1O6o8lD16QlI609ob",
@@ -24598,7 +24598,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iOql19lQibIoo1bObo0Q1DqQ9qOqI0oq",
@@ -24671,7 +24671,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8ll9P9bOloIqbI0O9PboP9li1iloIPPd",
@@ -24817,7 +24817,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PIPdidPO68916i10dO8lPoI9Q9blPbID",
@@ -24890,7 +24890,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dQD6lbPO66DllOb1i0IoqDqbii0IOQi9",
@@ -24963,7 +24963,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dDOdPQOqD6P68dIOl6O6I8q99Q6dd9Ob",
@@ -25036,7 +25036,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O111bDqd0oQ1O8IqiIDQq091l1IDO8oI",
@@ -25109,7 +25109,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0D096II0i9l0doPlbPQbiPo1IQDDoOP0",
@@ -25328,7 +25328,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DQI8O1bD9Oi9i90i0DqqOqbll91IiQI1",
@@ -25401,7 +25401,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dq8b8DPD06Q8qob8OOiQIlOdD8QQD0q9",
@@ -25474,7 +25474,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ObI1oo6QlO981880DDDOlo8bQobI0I9P",
@@ -25547,7 +25547,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q8Ioq8POo69ol8bPiOPQPq61oqoPo0DO",
@@ -25620,7 +25620,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P1D0q8O1QblDOQP96QQolql9QII0i6Pb",
@@ -25693,7 +25693,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qQ1DII6bDO61o81O86OibP6Pi1q1O0QQ",
@@ -25839,7 +25839,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dd8PodO0ilIQQb0P0OQPDiodI9biP91d",
@@ -25912,7 +25912,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8l0ld8Oq86P09lb91DdD9OliiPq9oq9D",
@@ -26058,7 +26058,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i6Q00D16PbbQPl19oibiiQ6qQD01D6o8",
@@ -26131,7 +26131,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0QlIdbiPq11Q0IPoQDI60Dq8Ib66o988",
@@ -26277,7 +26277,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dq0Iio09Pb9iD0lbb0I0qd8Q8i10II09",
@@ -26350,7 +26350,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bd8OODli0POo9bOq6i0oIPdIlbDlI910",
@@ -26423,7 +26423,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dQbolPiDiiObioli96DlOo9OlP9DoDIi",
@@ -26496,7 +26496,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b8dqI0Iq60iQPPobiiQ8O6PiIqdodDiQ",
@@ -26569,7 +26569,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8IDiil0bDd00P1l1iQiq9DP6bO0b8dQb",
@@ -26788,7 +26788,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ib8o1iD68il66olQ1lddIPi0lIb9dd1I",
@@ -26861,7 +26861,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b0Po680ibI600ObOi6qqidI06oqo0Olq",
@@ -26934,7 +26934,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ob0P66Q8dqbI81qi6OQDPP6086iPoO1P",
@@ -27007,7 +27007,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q6qI6llb69D1IQq0OiP8OD06Qioob91Q",
@@ -27226,7 +27226,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QbdQold98oq9lODoIloIbPiIqld6i0Qb",
@@ -27299,7 +27299,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0Ilqbl8q8Q6l6886Q9P9DOi69oIb1b1d",
@@ -27591,7 +27591,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ODlO019O088Q0bl9QI1PPqQ01iD68191",
@@ -27664,7 +27664,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Pq0Qq0OQqlPDQOld8bddlIDPD89o8bO8",
@@ -27737,7 +27737,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8O9o9OPPdd1Db6996P99bq9oQI66P88o",
@@ -27883,7 +27883,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d9llb88lDI1q0QI10P01lqIqlI6QO0Dl",
@@ -27956,7 +27956,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9IdoP1ld9098PI90QQ6bP0Idl1ibo80D",
@@ -28175,7 +28175,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iIDOlq6QoQPiqoii0iiDOiI9ODiQOIDb",
@@ -28248,7 +28248,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "11dQb0qIdbO098ObDqOQQ8Ili9Il0lOd",
@@ -28394,7 +28394,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6Obi001oi9Qd1966dOd6d6Qo66dbbill",
@@ -28540,7 +28540,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PI60Dbq8o9IbPPl09OO166b6o1ooI68D",
@@ -28613,7 +28613,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i9PQoDbQI0qqd6I00d19bQo6q9PoOIbO",
@@ -28686,7 +28686,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0iII09bDqIbOQDDoo8lO8DOOQdiP1Iob",
@@ -28832,7 +28832,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DPo0bi8Dibli118P6D981oQIPPQI01lo",
@@ -28905,7 +28905,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Ib01P6O8OPl8qqQi9QO6dii18ID69I8P",
@@ -28978,7 +28978,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1iPqdbQiqoi9l8D6Q106i01DbOO8191b",
@@ -29124,7 +29124,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8OIqIi996QI18Oo0q8iiiO8bbb6dI1l6",
@@ -29416,7 +29416,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Oq8ii8id8ob90q6OiDoIl9Q0lQDd9DIO",
@@ -29489,7 +29489,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Qb8P9PODDo68lPqQ0o6d80bIqDOiPD9Q",
@@ -29562,7 +29562,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1l8ibdlb0O0q00o6l9Pq1ibdbIQqqOb1",
@@ -29781,7 +29781,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O1blDPOQ8IQb00o0D89QIDIlo8b06liD",
@@ -29854,7 +29854,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8DQDq16PPlli6o9iDl11DqooqOPlOb08",
@@ -30000,7 +30000,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6Oi66iq9bqi8bDI6l6lPdqDObo1i9lDl",
@@ -30146,7 +30146,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "90DO081odOdPDblDOqQi1O68Iq988obq",
@@ -30292,7 +30292,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8l808Do60DP0qDbD066QQqP1qOQdob90",
@@ -30438,7 +30438,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "890q91iIbO96OOD10Qlob6qOObQoq1bd",
@@ -30657,7 +30657,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oo8DId90dbDliiQQlQPQQoIq6lPliqo9",
@@ -30803,7 +30803,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "POl689q8ODbPI0PDo8l8oD81Plio8qlP",
@@ -30876,7 +30876,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l6qQi9qlO8diPd18dl6DdqPid01P91iQ",
@@ -30949,7 +30949,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qIDI69oIo8OlQqdqqDilI1do6IbP16Q6",
@@ -31095,7 +31095,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0D1618DDbol8bl9dP0lDdiD66ioIiidD",
@@ -31314,7 +31314,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oDlO8QQOQ68IO61q9PQd800QiOll1odI",
@@ -31387,7 +31387,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dqbd8PD01bI8qlQ1QQ9iP896P88D1O1o",
@@ -31460,7 +31460,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1lIi8O100iq1Plolql1biO1QIOOillOQ",
@@ -31606,7 +31606,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i8iPdIlP1IIDib96Qq080ibq6bblQqQD",
@@ -31679,7 +31679,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9dDOQo8bQ6blDdd989l1QIO8liDq9O0q",
@@ -31825,7 +31825,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "811qq00Il1Q681068l8dQbPO60l0oD1l",
@@ -32044,7 +32044,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ODq019O9o1OPdq9PiPl0o8D8DQ8bid88",
@@ -32117,7 +32117,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qdbod6lI0I8O118DPq80D8b0o00OodlI",
@@ -32409,7 +32409,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PIdPo9o0qOIiPDIIlbo9l9dObP81lQqi",
@@ -32482,7 +32482,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q8i11qPbo9iq8lQb9d08di81Q88q8P9o",
@@ -32628,7 +32628,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DoOoDio1q81OQdoOO0b6bPQPOoq6I0Qi",
@@ -32701,7 +32701,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0bq9qI9PoPIlQl89bDO60o9q8I1iIP66",
@@ -32847,7 +32847,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1900DdoIl00b88q6Qq9ob9D6lQ8IQiPb",
@@ -33066,7 +33066,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dIbPlPdo09i8oOlOQ1OOq166Q8iP8Oqi",
@@ -33139,7 +33139,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-i-ll-be-with-you",
@@ -33285,7 +33285,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "69b01qbo8Qdi6liOPq091bqo01i16oQ9",
@@ -33431,7 +33431,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "90lolio9qd6qo6Pl8oo69iqi81oiiQib",
@@ -33577,7 +33577,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q9oQ1Pid9OiIDO66Pd19blOi09019i98",
@@ -33796,7 +33796,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bdQ6IobP6II86I1io686Il9qQ69dOod1",
@@ -33869,7 +33869,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8o6ibb0b1i66Q0D8699boob69b80Qb1i",
@@ -34015,7 +34015,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qDi0dIlObi6Q6P8dQ1b8oIb188O9608o",
@@ -34234,7 +34234,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dPdO9OP6616o99l99qiI9DddQdD9D80b",
@@ -34307,7 +34307,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lq9iPP06O8qiP1iooiboPO910b86di19",
@@ -34380,7 +34380,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "00obPO6oPIPOoD9qb0dIl6q6D8P6o9bI",
@@ -34891,7 +34891,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8oP1ibbO9qdP19d9lQoi1q16P69b1II9",
@@ -35037,7 +35037,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9o6bIq98Qo8dOd11DI0d8boblOqO0I1i",
@@ -35183,7 +35183,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q0I018lPqbdi66qiiiQlqIb9O19O9061",
@@ -35329,7 +35329,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1PQdDiqOD6o1b61iiDOoiiblIQbI91Pb",
@@ -35475,7 +35475,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dDQqqIQlDQ9POd90OPl9Dd1i106odDl0",
@@ -35548,7 +35548,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iI90119iIb9l609b9981l8QDblDOb0I6",
@@ -35621,7 +35621,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IoI10obli6qd9DI699l61Pq16P9bboDd",
@@ -35694,7 +35694,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qD1I6qqll88q9dq9PoloD68lqddIDo6O",
@@ -35913,7 +35913,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iQi8Oool866oDQ6i660o88b86689QiOb",
@@ -35986,7 +35986,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0lDDIlQ91lq6O16q9QQ681d6Db1l0oOb",
@@ -36205,7 +36205,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Qq8bbbqO6qQ1DPODd16oi1QDQoQ9b8DO",
@@ -36278,7 +36278,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q10PdOD6bDD9QPQQqiO11669bb0lQ189",
@@ -36351,7 +36351,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O8lq1l6qIi6I9l69IOPdoI6lbiodQOP6",
@@ -36424,7 +36424,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qIoDdQ1OOoPO8Q1Io0P168161DODPoqb",
@@ -36570,7 +36570,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "99ll6bPDDPqQ8boPIQbdQ6bPo8bl69O9",
@@ -36789,7 +36789,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iOqb60DOOolIioDIOPi09P91i8PDiOqq",
@@ -36862,7 +36862,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iq001Pi8b699iil0b9IlqOqodI606q8P",
@@ -36935,7 +36935,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9ddIP1i0O6l8oO9iI9Ii1Q1o800boQ0D",
@@ -37154,7 +37154,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9IOdDPPO1IIPD9oDbOPo0Qo99Ii6Q8oi",
@@ -37373,7 +37373,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ooiqoi6Q0dil6b10QOq8DiOIiq9iQb10",
@@ -37592,7 +37592,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q86bq1iQDIqDllbdD6ldIO089q8Q1689",
@@ -37665,7 +37665,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D6oPIlOlIIOi1oq6Pd6011lqobbqOlib",
@@ -37738,7 +37738,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6dqPOId9Od11Il90QO0q9iQI6d68IolD",
@@ -37957,7 +37957,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qIP6DPdbD9iO86i1DO9qDd8l6dPdbl0P",
@@ -38322,7 +38322,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b6l6qPPdiOqqPqqII0IPqI981bolOqIb",
@@ -38395,7 +38395,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IDPbb8oiQl0od6b8OqlPDo08o0QDo6iQ",
@@ -38468,7 +38468,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bIlqP91O9ld1lqlq6qoq9OiPdqIDPP0l",
@@ -38541,7 +38541,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "891iilD9Pq1lPQd6diqiP0dd611dOPPl",
@@ -38687,7 +38687,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PllDll9di16l8ild6b688l6OP6olQid8",
@@ -38760,7 +38760,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6bO0Dq60bboi009iDbO8o9Q9999PiiDP",
@@ -38906,7 +38906,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "99llllDoOQqlo68o089PPlO1oiq06d1D",
@@ -39052,7 +39052,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ddqQ801q1lIdIooDiq66qPil1oD0611I",
@@ -39125,7 +39125,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "id0i6dQId1D9l1P9bq9iP9608Ioi9iq8",
@@ -39198,7 +39198,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "db0Pi0bQ6iDPo69QlP8ID6IOdlooOi96",
@@ -39271,7 +39271,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "blq0Oq8q6oi89odoPOqIDDQIPO11IQ9O",
@@ -39344,7 +39344,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qP8qb6lIqPIlO696q8881qoIqi1O6ldI",
@@ -39490,7 +39490,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i1ol0PO8QbQD0q0oDI6qq0IO68868bP8",
@@ -39563,7 +39563,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bqi9QiQ0lbi8id6lOi88iIi9lo6Pdd90",
@@ -39636,7 +39636,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "691bdoD0DIP6di9D6QoPiDbD19Ol0lqi",
@@ -39782,7 +39782,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D6IQ1O1D00D1o8IQq0O9qqIibqDiiO0i",
@@ -39928,7 +39928,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "09looidO89Q9DiDdqQiDPlIQDoiobobQ",
@@ -40074,7 +40074,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b1QllqO8oQdqo086QdIlIblDDbPodDoP",
@@ -40147,7 +40147,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l0od6D6dl9PQdl1iDPOlD80io0iqqDb8",
@@ -40218,7 +40218,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D8o868di9DidPo98ibOdqbi98Ii869Qb",
@@ -40437,7 +40437,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qi9qP1dPd6PPDlldbb8OIlD08Pbd9006",
@@ -40656,7 +40656,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o96i9P9iO9o0DdbPb9bbQ66DqDq88Db1",
@@ -40729,7 +40729,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "odD0Ql6iQbidDlqdPIdo8iQO09OoIbD0",
@@ -40794,7 +40794,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6IPiID10iO699bOQlODd1PQ0liDi9i1I",
@@ -41086,7 +41086,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6P6dPoi66qO980bQo6l1QdlQIooq086l",
@@ -41232,7 +41232,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6P18lOliIQqIO6Di0PP8iDlDQ01b0o0q",
@@ -41451,7 +41451,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1Dl19idl0i0qiqidbDIIbQddiP6o11PP",
@@ -41597,7 +41597,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "89I0ooQbbI1I6O1iq861PQQqIo9iO86b",
@@ -41743,7 +41743,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lObPDQDI08DoodDq1061IP1qbQ1qQQbl",
@@ -41816,7 +41816,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1980q80l1Q96O881IidPd16qDbOol9Qd",
@@ -42039,7 +42039,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iI1iQD6Id0PiPDoo919doOooDib09I6b",
@@ -42112,7 +42112,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Db9DllQooo6lqQdl6Q6OD6q066i1IdOO",
@@ -42185,7 +42185,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IdDblQIbq8Di9iOo61O0bQIIPqPQ16o8",
@@ -42258,7 +42258,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lI8qIDQPD0PDOdO1d01iOq8bI98iiQ1l",
@@ -42331,7 +42331,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "olOOdb66Q0bP0dqQPdIdQ8IPQql8D6bi",
@@ -42404,7 +42404,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "19old9dq1q9DilPQDol88d19dI96blb6",
@@ -42550,7 +42550,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bD1P1l6dDPdl0b99lPl0llD9i9blQIi1",
@@ -42623,7 +42623,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6Ddo196olOPi9IQdbQ8Qbd8do8Q1obOD",
@@ -42769,7 +42769,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i1QlPD8oooQ6lQq9Oo9qdi9q0Q0QqdoQ",
@@ -42842,7 +42842,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "18l0blb188Oqqi8I68o8oq91Qbq86QDi",
@@ -43061,7 +43061,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1Q9l881P1bq8bQQ9OOqQ10OioP68bQ8o",
@@ -43207,7 +43207,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6i189o0bl000608OPdOIODOOibq6QoPI",
@@ -43499,7 +43499,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d9iqoill801Q891P1OiPDIbDlQ9qoQ1b",
@@ -43572,7 +43572,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IObOi8dQo68Q19DI9oD8DI9O81IPqOlQ",
@@ -43645,7 +43645,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ll0O8PlqQd0iOO8ib61lO6iDiliQdiPP",
@@ -43718,7 +43718,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QID6qIPod8III8ll8ooQild1QdlPOIdi",
@@ -43791,7 +43791,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bDo8Pb6O1o8Oi0b1I1bI98Ib0QlD6I1l",
@@ -43864,7 +43864,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b6dqPiOO6iO6b8D90Ido6QPOlObd9o98",
@@ -43937,7 +43937,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i9DPi1Do9qoIQid09o1oilodPlDP6doO",
@@ -44010,7 +44010,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bD1DbibPIq9IIlQd0OIIl0o91QI1il69",
@@ -44083,7 +44083,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OoQ6Oq81oIql8iIlbI6qldIlqoD1Di1I",
@@ -44156,7 +44156,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-monstafesta",
@@ -44375,7 +44375,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9lO9do19O1I9dbiPi8q9OdqdiOoQ8PQQ",
@@ -44521,7 +44521,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q8q0D8QoP89IqooiiD0q66QPI1b8lDi0",
@@ -44667,7 +44667,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Io1661doQq6OQ8DoobPq1IQlbqoDD1q8",
@@ -44740,7 +44740,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lbD8DodiOiP8D61lidIi88DIiPqi8o6P",
@@ -44813,7 +44813,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DI91q6O00bliOldqO6DqDdqib86iqPPP",
@@ -44886,7 +44886,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iP6qIl6lD809098io0OiPP08Ii18I6OI",
@@ -44959,7 +44959,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lO91bIQ0Q990PqPbPIq88b9I9PI6ID0Q",
@@ -45032,7 +45032,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q9QlQI6Dd09P6i1bP9d8q0IQlPoqiQ81",
@@ -45105,7 +45105,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1iDPo19Pb9ooi8OqiidbqPb06DDdqiqo",
@@ -45324,7 +45324,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o0l1Qioq1i9iQl6b9q6il0iqi1b1OQ9b",
@@ -45397,7 +45397,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DdIo9DQ0ddDld99DQdiiqbPP06OI91I0",
@@ -45470,7 +45470,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6i99bQI11qD818DDdq6qb0Dql880lP8l",
@@ -45616,7 +45616,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q96q9D9oIIOQl8QQ60ii19P0Dbq8Q609",
@@ -45762,7 +45762,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0l1q80obiPPD1P0iid6OI188OdD8i1dD",
@@ -45908,7 +45908,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "II68b0dooOIOlOiq0iQO18blDd6b9O9D",
@@ -45981,7 +45981,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "61P0I66id16QIi08Q1918PlldOOiooql",
@@ -46127,7 +46127,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qiqP8qb8Qlld0Oqbll00o0bqlq9PoO09",
@@ -46273,7 +46273,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9QP8IdI00QP101lQPPQbP89DIDQPoD0d",
@@ -46419,7 +46419,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bDDq1qO80o6806dQOb1Qo0bPI6899q1D",
@@ -46492,7 +46492,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "odlOiO6di119680QOoOo8dO8IO0DliI9",
@@ -46565,7 +46565,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Db6odqIqQ90PIDIlD1DIb8l09ol6qIDl",
@@ -46638,7 +46638,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "81qibDQqq8idiD1lQqq0qdqD6i6q1QDb",
@@ -46784,7 +46784,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-nostalgic-blood-of-the-strife",
@@ -46930,7 +46930,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I98DbDO1OqIPD9Q608DqoO1I6Iqi1ddo",
@@ -47003,7 +47003,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l6oP66ODld89Q99o0lDPP90qdbo11PPQ",
@@ -47076,7 +47076,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dl91ldlb8PODoO96OI801DP0PPl8Plqi",
@@ -47149,7 +47149,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "99OQb9b0IQ98P6IQdPOiqi8q16o16iqP",
@@ -47441,7 +47441,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d88boiQ609PO8ODDo6IliPIb69I80dlP",
@@ -47514,7 +47514,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q9bo8o9600D869o10ioPb8bPO10bIOiq",
@@ -47587,7 +47587,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I69b1IOq8Qqi6iIo11Il98P9qiOP6q1I",
@@ -47660,7 +47660,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OQb96d6qD9bPdD819QO0b88blIllldoi",
@@ -47733,7 +47733,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0OQiI9qD6OiodDoQlPllqPoPoqi98D8P",
@@ -47952,7 +47952,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QI06q9lPIoo80DlI18Ooi6dbPl89bqi0",
@@ -48025,7 +48025,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6bid6d9qPQ80DOqiidQQ891o6Od8801l",
@@ -48244,7 +48244,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DPQo8Q0l9D8IPiDiq11l8OI6i11OOb6O",
@@ -48317,7 +48317,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o6oqqiOOb9Pob66loQoQddlDP6PP69lo",
@@ -48390,7 +48390,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O9Id8Qi6OIDIQ6bPi610q0001l1P099q",
@@ -48463,7 +48463,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "68iQ9666QIQP1IOQbbd9989DQQ1D0dOl",
@@ -48682,7 +48682,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PP1q0iii1D6Dq9QOd0qqDOQD0160QoPD",
@@ -48755,7 +48755,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ioQP0b6I11Do1OQPIQ6OIDiPODD0l0dd",
@@ -48828,7 +48828,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9doPbId8qid9I9l6ooloPQD1lq1Plb6I",
@@ -48974,7 +48974,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dQ69Oqd0Do8Dodd6bQD9l16Olo9P01DQ",
@@ -49047,7 +49047,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0lDP0P06PIPl1iiIDOb919iqo1oPdlP8",
@@ -49193,7 +49193,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "606b9d6OiliId69bO9Odi6qq8o8Qd0dq",
@@ -49339,7 +49339,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I8bQ8ilD9l1Qi9Q9iI0q6qqqiolo01QP",
@@ -49412,7 +49412,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IP00ID9bdlOoP9o9lo1qlO0D1Pdo9I8l",
@@ -49485,7 +49485,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I91iOPbIbDOqI6iO6bPQ0d0q8Q8IlIid",
@@ -49631,7 +49631,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8PQooio0ilPoQ8Di66I19QOQP90Ddbdi",
@@ -49996,7 +49996,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P0iOob80dDPqI8oIqq1dOiDd9qilQqDl",
@@ -50069,7 +50069,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D8q1ObblD0i6liQ0OD6OdD0qIo9oPldb",
@@ -50142,7 +50142,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IIDiDdQ1d6bIqbld9IdO106POdiPO6PO",
@@ -50215,7 +50215,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DQlQ1DlPbq900oqdOo8l0d6I1lIOl99l",
@@ -50288,7 +50288,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bllQi9boq8qobOQDOD6QDio9lii8109i",
@@ -50361,7 +50361,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IQqOIb6ob8bIbOII66ID0oIQDPl6bdbb",
@@ -50434,7 +50434,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OI01b6I6OQ9IdQidll890oqlOPDql9ol",
@@ -50507,7 +50507,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qDIdbDO1OiDPqd1i60Dd6OPOlO90D10Q",
@@ -50653,7 +50653,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "09oIbO1bi8O8Q1o01q610ID0qPOqoQQP",
@@ -50872,7 +50872,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O09lbd0I8D0DI08O06l6iiI0i11I1iIb",
@@ -50945,7 +50945,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6oI9d9lO6Q0iDD8dIIO08qIODiqiIqDl",
@@ -51091,7 +51091,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bOQ0dIIIilDD9Do6qIDdlObQdo01DD80",
@@ -51164,7 +51164,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dD6PqbboDil89DPIID86Pldi6obI1b8l",
@@ -51237,7 +51237,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0IldoDlDQql99DqQo0Qq9ioPIiiPoIoi",
@@ -51383,7 +51383,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l609D9lOqbDP6iIld1dI18l888dODQ6Q",
@@ -51456,7 +51456,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O6q0qIQdII9086d9q6o0D1PO06liQ9iO",
@@ -51529,7 +51529,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q0dQDqillPqIId0Q81q01ooObQIlO1QI",
@@ -51602,7 +51602,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1PiiOiQoq8dbdi819q9Ild966o6o19QQ",
@@ -51894,7 +51894,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-princess-k",
@@ -52186,7 +52186,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iqOqI9bQl1Q0qDb0086Dd80OOi80P166",
@@ -52405,7 +52405,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IiiqDblQ8Oqlbo8OOiqI6IqO6P8I8I1d",
@@ -52478,7 +52478,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bl90QbiqoOlDI6iQQQdo0Iol6PIdQblP",
@@ -52551,7 +52551,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "diDO6qoqo9li6qDdidDiqO9bi8lOP8ib",
@@ -52624,7 +52624,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D01oOb0IOQ1bbIIdi88O0d80Qo9dblqP",
@@ -52770,7 +52770,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d8l6ob1IPiQOlPI8i88oQqO10Ql6ibl6",
@@ -52843,7 +52843,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6ibO1P1I1ooDdd9l1oDOqDDdOlO9o6io",
@@ -53208,7 +53208,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "60P9IPOdi1OIbD61D8i0D9ODoq6QOIPO",
@@ -53500,7 +53500,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q6il000Q11liO16qIDi0i0IO6id6qibP",
@@ -53753,7 +53753,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "60qiDd000qDIobO0QI916i18bbolO919",
@@ -53899,7 +53899,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PIl8P90Pll19Pido608olD61QIqq0b9d",
@@ -53972,7 +53972,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ODdoiODodb0ddIP06IqDQdl100q0dIP6",
@@ -54045,7 +54045,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l1b8iDqOdQl6PbIIdb966qQ8d9i9dOPQ",
@@ -54191,7 +54191,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Qi1Q6I80b09Oq91OPldbO19080q0dd0b",
@@ -54264,7 +54264,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0b8lD690qQO1bDOib1IqiO0OO169o9IQ",
@@ -54410,7 +54410,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qo6l9dbb8D0iDQI1odo0Qb9O1ibDdoIb",
@@ -54556,7 +54556,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PbQ8Q9ol09I18IIb0d6iO8i9ODID10iO",
@@ -54629,7 +54629,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P8IQ8blOl1i08oP18i06Oq1iP9biP6Do",
@@ -54702,7 +54702,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1qPOO8o9089lI1qQIDIDi0lidob9i6lq",
@@ -54921,7 +54921,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DdIQdo1D01PblPQd06696dPq610o1lIl",
@@ -54994,7 +54994,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IDIQilDID9lO6lO86dq6ldoDlqiii1o1",
@@ -55067,7 +55067,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QoD9DQ8QQ11ib0Idob9dbIQqbq0Q8Q6i",
@@ -55140,7 +55140,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0i8idqoQ8lOIi6qOPO0DOOi8OlPq10D8",
@@ -55286,7 +55286,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I189iqQI6iPDdIDbo81b1iD6lIQiI0Po",
@@ -55359,7 +55359,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IPq8dO1lD8qidDlI0ObboI9IIldQO6IQ",
@@ -55432,7 +55432,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QOPioi8P81q9l0QiP6q06b06bdOO8b1O",
@@ -55505,7 +55505,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dld100o9l88o6qqId6O96IbiIQiOdbQD",
@@ -55578,7 +55578,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dIQDOoO80odDP8OiOQIQ9oI0o99OdQDQ",
@@ -55651,7 +55651,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PIP60POo0dDQlIiqO9bIQ1oddQD8P9Il",
@@ -55724,7 +55724,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Do6oPoo1QbOPo9DIii0Q0180l8b1Doqi",
@@ -55797,7 +55797,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8QPioDo6lIDdq861DDooq1O9dqdOOPiD",
@@ -55943,7 +55943,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iq9qPoPlIlbIDqlD81DqO1110QI1qoOl",
@@ -56016,7 +56016,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D0dPPodlDQO9lQblI6PP1OIIQPO61O1D",
@@ -56162,7 +56162,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PO1olqI8DiDiO0loDIIQ08oPd910bQbQ",
@@ -56235,7 +56235,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "60QoP9DoIo90D616989Q0D0iodOoOd91",
@@ -56381,7 +56381,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dbd0o8iob1D0990DDIOIIQ6bQqdDQ6ID",
@@ -56454,7 +56454,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0iO086qDbPOd8DlPPqP8q0DDi6O8iP9I",
@@ -56600,7 +56600,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lliDD9qPqiIDI8P9bb18IO60l9D061Io",
@@ -56673,7 +56673,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "68iObo1dP91oqDQ18iiiPQDDb8O6ddq6",
@@ -56965,7 +56965,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1P9qQdiiodODqQPl0OO88iiiqdoDIPO6",
@@ -57111,7 +57111,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9DI8iOP0660lb968I6Oiiid6DQ68IbOO",
@@ -57330,7 +57330,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "88qIddPQ9Q0QbQb0l6obD6IQ99oIiQQi",
@@ -57622,7 +57622,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ooo6qID66I6191bQib1QQdlPoio6Iodl",
@@ -57841,7 +57841,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DOOb99dlP8PdIbDOQIqoqll60Iob9189",
@@ -57914,7 +57914,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9DIIo619qoDqIOb1091b816dbl0IlllD",
@@ -58021,7 +58021,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oo6iiQQbqQ98D9oP6OQPibIqIPd66Qb0",
@@ -58313,7 +58313,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d1bdqOI8IPIO8i00Plq09d189lIbIo0I",
@@ -58386,7 +58386,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PDODO6Qdb9iqd6q0QoI0PiI0lb8l9I6d",
@@ -58459,7 +58459,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "88do8dl8O6Ql1Qlb981lOi8D86oiq91P",
@@ -58678,7 +58678,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iq6b9lP6qQQIOIPQDdPD8ld1o9891Pq9",
@@ -58751,7 +58751,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "obd0PDIDq8qqd9q9qdbDdqD98bd61I8D",
@@ -58824,7 +58824,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qOQQ1qdQPPQ1bbdPldPlIil99IDoPi61",
@@ -59043,7 +59043,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QQd9l19POblQdPdd61OD808DQ1qOQ9dl",
@@ -59116,7 +59116,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0Pq6o89llQl10dl8O0DdP6lIO0ib6Doq",
@@ -59408,7 +59408,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o9l8Id0D1lQdl1o9DDIPbO6q998lq8bd",
@@ -59481,7 +59481,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dDldd8OlbPQDoD80dO0DiDOiIoP1PQoD",
@@ -59554,7 +59554,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oQ1PPlOd8Ilb8I1I6biqO0lQPIoOldP1",
@@ -59627,7 +59627,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "16Pio809ID669Di8OoPblQO0lDq668dQ",
@@ -59773,7 +59773,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9bI0dQdb01Dl1bQq1Pq998i0l096D99P",
@@ -59919,7 +59919,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O6q9qPQ1q69ddPl6DPO0bQO6989QO1ii",
@@ -59992,7 +59992,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Qbbqd9O98bl0DobQ9l6blO8iOPP8QdDd",
@@ -60065,7 +60065,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D0Q0oIDDqoQd0IQddi1IiD16dO16O88o",
@@ -60211,7 +60211,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qbl10iqqdO1Do1dIq181Pl6oi8QilQo1",
@@ -60649,7 +60649,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QO86biQ6lDOb8I0oD0i90bqi1ooIIi0O",
@@ -60722,7 +60722,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9ldQqb9oqi60Q80iob61OiQbbDO6PID9",
@@ -61160,7 +61160,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q8bIddo10ilqbd6I8QOq1bod1OO8dqlO",
@@ -61233,7 +61233,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bi1Obd9i99P0O9PqQ1l1P6P6o1IOi11P",
@@ -61306,7 +61306,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D6o8lIiDQ80oi6iIbiP9DlOPIl0Q8d69",
@@ -61452,7 +61452,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "08IP8i1qIbQIoP9DiP11IdP190Q98lil",
@@ -61598,7 +61598,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dqb08DI0Ii8ilD0lioi9o9D1dodl6dO0",
@@ -61671,7 +61671,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "86688l9096PdIqDPl8qoQ10dI8Ioi86l",
@@ -61817,7 +61817,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OdldObODIdilOP0QqI0b1oO1diqdq61b",
@@ -61890,7 +61890,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "odliP8d18DQi0b8lPbPI1PdoQ0PDd0IP",
@@ -61963,7 +61963,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8odoOQO89P8dq6iOlqddiDbd6ilQ19PP",
@@ -62182,7 +62182,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P0OOoO1Pd16DdDP6Q0iIO68I0q60dD6O",
@@ -62255,7 +62255,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "60dq6Plo0do9iQOl6ql111P9OPd9i01l",
@@ -62401,7 +62401,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6ObP9i0qi1ibbi9DOd6bOOOd6Q9dlPi6",
@@ -62547,7 +62547,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bo6PqbbPQ6D096OIP6dDPbPPiDi88609",
@@ -62620,7 +62620,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o89biodIl0Oo1bQqll86QDi0oQQd61Db",
@@ -62693,7 +62693,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8i61Oi09bOIP0lOldI668b8IPbIq8l0Q",
@@ -62839,7 +62839,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b1do8OI6qDDlQO0PI16868ql6bdbI886",
@@ -62912,7 +62912,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D9I8d1PDOQ8QqP1o1IIi0o8d6660ddOQ",
@@ -62985,7 +62985,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dqb69lDiP6diId6O8Q0I6bbQI88lPlb0",
@@ -63058,7 +63058,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QD0q90q9PIl9PdqqO9D9DO09DbiODOI6",
@@ -63131,7 +63131,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6I0d1d8d690dl8boOb60O1Iq1Ddi6P8d",
@@ -63277,7 +63277,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bb9lOdO0Pbb1qOIb1oQq8lPlI9i6IP8q",
@@ -63350,7 +63350,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1QqObIQPDOq6bI6iOqDiiI66oDQQidlb",
@@ -63496,7 +63496,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oQPdiPPdQO1Ob6DqDi0l0q0PDP06QlO0",
@@ -63569,7 +63569,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "80OqPo1D6lD616lIDI1IPq0oPllld6b1",
@@ -63715,7 +63715,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l08bl1dddob81IP1IbQqbDbiPo9l069l",
@@ -63788,7 +63788,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "olDoq69qD008Q9bb8d9OOlPO160Qd0dq",
@@ -63861,7 +63861,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OPQQo1idQoqOq88lIPOQo6DooiP8QO9d",
@@ -63934,7 +63934,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8iiqQ9o1P089901DPIq8PDPOl6oDOl1P",
@@ -64080,7 +64080,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-steps-for-victory-u1-heavy-metal-edition",
@@ -64299,7 +64299,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0i68q1iQblI1Pb8QqoQ90i6ddPiqdq8b",
@@ -64445,7 +64445,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1idIoi66ll806D8ddldOQi8bdiDO0Oil",
@@ -64664,7 +64664,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i90o9Q0D91bb0Q6qIQ1OiDqqiPPP98oI",
@@ -64737,7 +64737,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "loD6oi96869O8ilii1QPOPDoP91l1PQQ",
@@ -64810,7 +64810,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ibDqd11d81i8ll91bib9I6IoDqdl6D8O",
@@ -64883,7 +64883,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9qO16DoQPDODQI6IPD0lPD10b88Qqi1i",
@@ -65029,7 +65029,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I0DDidl0PIo6bO6o8I08Q1Pq89IdP6Pb",
@@ -65102,7 +65102,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DbibObDP860iqI11POiqQDD0i8PPOibd",
@@ -65175,7 +65175,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8809ol0qbbd6919bbl0b8id1669PqQ08",
@@ -65321,7 +65321,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ddqO1b1ldlQd6OOoQ1boPdoboDQqd9D8",
@@ -65394,7 +65394,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b9IoO68b1Qd9I6O8qqoo6q1o8DQ8l9lo",
@@ -65467,7 +65467,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iObdoO9b1O9o8dP8o0id9b1QioQ0q9q9",
@@ -65540,7 +65540,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PoiPd1OP1q9I9IP00PDlI1Q09QQ9b16o",
@@ -65613,7 +65613,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1Q1Q8oO600lodPbio8b8d66b8do1PIlQ",
@@ -65832,7 +65832,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1iIoi89doDiQoo8o0ddl9PQdQP0Ili8O",
@@ -65978,7 +65978,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ODQOP1dblD6q8d160Ioi0dIoQloI6oQO",
@@ -66051,7 +66051,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q88dlIQDd9lbiiiio0dddO6QP6O091lI",
@@ -66124,7 +66124,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qQl6O8IdiI6991IiqDqidO96bll1qPDl",
@@ -66270,7 +66270,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "idDdoI9bD186blQ9Q8610bIQqb86dilo",
@@ -66343,7 +66343,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oDIliqQl90bQo6Qil9bOiD1iO19qI1dd",
@@ -66416,7 +66416,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lQbiI10Qo9DdD8liqPIiob61qDO9d861",
@@ -66489,7 +66489,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Pb9II0oiI9ODQ8OP8IqIPQP9P68biqIi",
@@ -66562,7 +66562,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l9OQPi0do19dQPO8ilq0QDbll8P8Ib6O",
@@ -66635,7 +66635,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D81D8689llDiOqPq0IP19bbQQiioPl8d",
@@ -66708,7 +66708,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "boQPliilD01OD1bIdOOIOOi0Q9P16OlO",
@@ -66781,7 +66781,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8O6b1D9PDO0ll1IO9d1ODDPPo0QPQbob",
@@ -66927,7 +66927,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "POO9PlPq66OqIQO6Oq1i90D6Ill100il",
@@ -67000,7 +67000,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bql00PQ1PiboIqDQoD909Il8o1PIDiD1",
@@ -67073,7 +67073,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qQ9Oo611P0dObD8q6O0Q968bbl8I91OO",
@@ -67219,7 +67219,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1P00OOoibd668i90Oqb0dl9i8D10b1iD",
@@ -67365,7 +67365,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "io688qld6Pqq6bI01q86illP18biq0bd",
@@ -67438,7 +67438,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1qDD1DdPlId69010IQ18I6q8Q00IoI6D",
@@ -67648,7 +67648,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0ODl10P0O10D1OQID91QiPlQd988bio8",
@@ -67794,7 +67794,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ob86bIdI1IbIl9DoQ1bboq9Q8O6PPPoq",
@@ -67867,7 +67867,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b0lI9Ili8loOb1DD6Dd8lqII60b90101",
@@ -67940,7 +67940,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8i1ii188q9OlD0qQ9lQ0D1OdDbldqQbI",
@@ -68086,7 +68086,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iqlOo1bdoiDqDbIODDl0POl1PqlQd8l6",
@@ -68159,7 +68159,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i1Q080DDQD81l8o0109Q6blq0oo8o69q",
@@ -68232,7 +68232,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8IODdDQI6P8o0QobDPOldbQ06169b01o",
@@ -68524,7 +68524,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D6ql9DIOPi9Id8iiOOi1olOPdO9dl1qQ",
@@ -68597,7 +68597,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lO990qi9qq9II1boI10ObdbbolQ1Ii0i",
@@ -68670,7 +68670,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0q8b6O0qOlDql0oP80OI8i8i1088qbIb",
@@ -68816,7 +68816,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8Pl1i1o0O6oIio0b681qOoDOQdPPOObb",
@@ -68962,7 +68962,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "90D66ObIiqP09oqoDoq6b908b699oqqi",
@@ -69181,7 +69181,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b80qOO6l8060990qQPod1bOd8Q9d69qo",
@@ -69254,7 +69254,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "boi66iD1809o6q199bbolO0bqQ1lqI8b",
@@ -69327,7 +69327,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "li608di8PolqqIP808iddOqi11qDDq0Q",
@@ -69400,7 +69400,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1o6dQqq9P8IQ6PbQO88OI1b91P9DoqQ8",
@@ -69546,7 +69546,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PdPdbdQ1lDI18O90Q0li8QI0bo99bidd",
@@ -69619,7 +69619,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9oll10Dq1qdbPQl68OQ8dOd9q86999i1",
@@ -69838,7 +69838,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "99oQO1b8d9qQdPq6O1I6bd1bo1D16DP0",
@@ -70057,7 +70057,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oIOq6lQQPoD1q11Qiq6dDI6l8DdoQ169",
@@ -70130,7 +70130,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "POdll6oPi1dd68q19q8ID6iQ6d08bl99",
@@ -70203,7 +70203,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OddDoQ6dqi0QdQDDOO6qlO08d8bPbli1",
@@ -70276,7 +70276,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D1D88PPI0PDQqOq00OI6QI1o6dPolqlI",
@@ -70422,7 +70422,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l9i996ld6PbbiO1911OoOI8lIPQ06ID8",
@@ -70495,7 +70495,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1loi6P66IOoPqD9I68odili18P8bPb9P",
@@ -70641,7 +70641,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l66Io69ob00OoOiDOI9lIqlidbDoDq89",
@@ -70714,7 +70714,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ddIiQ90DblbOQQIQPIbQOdb9DdPoOQ9Q",
@@ -70787,7 +70787,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iO61Dq9iiIQO0Qbbdo1O8bdqO8dqoiio",
@@ -70860,7 +70860,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PlIiPiPoI9DIbPdIPoqQlIq61Pd8QIDo",
@@ -70933,7 +70933,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OPOIPIi1OioQ98qbO100q6QiDP8dIDq6",
@@ -71006,7 +71006,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0lIIil06b8q819P9lDil09o6qlqo9I1i",
@@ -71152,7 +71152,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d810q0I8q6d0l1POlIO6d66bOPb96dql",
@@ -71225,7 +71225,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IQqi9Q9qD0DDQIqQOb868QIOioqDqI01",
@@ -71298,7 +71298,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lDOPd60Q9obl6D0q8qqdQi9lioblD1db",
@@ -71371,7 +71371,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bilO9D91P1lo81oIDP6qOoqdDdQdoDlP",
@@ -71444,7 +71444,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D9lq0DioIl9D6ll0d61990DP9qPPb1dP",
@@ -71517,7 +71517,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ddD8OPQoIiQi0IbDOIIdQ6dDDbPQ9bIO",
@@ -71590,7 +71590,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "doqDbod0d81qP6PoPiP8b0P00PD8oboD",
@@ -71663,7 +71663,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0l181DPDqbQPb0qQl0i0dlQd0oQPlQ6i",
@@ -71809,7 +71809,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "91Qdq6DbPDlQOiOq08di0IQo8IP8PPqQ",
@@ -71955,7 +71955,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dI1Ii100bQ6006l89diod0d116diOl8D",
@@ -72028,7 +72028,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qPdoiOIld0I81dIqO0OoDIP6Ib8lQ9Il",
@@ -72174,7 +72174,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8q68D8iP6lIdiP8bo9PoOib8lb9loIob",
@@ -72320,7 +72320,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "olQl6Qoi0IbobI980q9Q0QIo9qlbq1PO",
@@ -72393,7 +72393,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "boDqoIDqDlP1io6bQ0O10diDbbqOD96I",
@@ -72466,7 +72466,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "89O8qIII0QPO0Q0l10P6dl19PlQ9d0oO",
@@ -72792,7 +72792,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "diO61POQ9odliiqoq0ii0Q6OOid9oOIi",
@@ -73045,7 +73045,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d1dPPII1o69IlI0d0DlPi1i1idbdPD6O",
@@ -73118,7 +73118,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QldQ19DlqDbq1l091q0l1Q1qD6ldQ6qi",
@@ -73191,7 +73191,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9lo10Dl06QIblQqOOid1qi0bd10I9lQ9",
@@ -73483,7 +73483,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6bIODbPoIDlOdO66b1id0q68qdQilDd6",
@@ -73629,7 +73629,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PqPPDibPdD8qd88D0d01dqo6918b0POD",
@@ -73702,7 +73702,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I0091lboOD1Dii10dQ0qbDqil69PQ0io",
@@ -73775,7 +73775,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QQbiq1qQd8d1blOldi889OdQd9P1106Q",
@@ -73848,7 +73848,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "01808Q1Q6lQQ1lP0qd80I0b0qqDd1OOP",
@@ -73994,7 +73994,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I81iP0Io9o1l9li0Iq99P1091O8DoDOd",
@@ -74067,7 +74067,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lDdID1ili0D0i10bdiO06Q8OqDIdo91l",
@@ -74140,7 +74140,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "09lOI9Ii1OD9b9bi9q0q1DQi668bO8qb",
@@ -74286,7 +74286,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "96Q0Piqo9PPQoQdi9001DO6P9Piqi0dq",
@@ -74432,7 +74432,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I8Odid0QlODlOilqdllqlQldq996QQbP",
@@ -74505,7 +74505,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I6DdI9O1Oo8O9lo1D08ldOllo0o166I8",
@@ -74578,7 +74578,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "olloQOobddiIIPObP91l0qPl6oo8P9Dl",
@@ -74651,7 +74651,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qdbO199oIDIbQ61iDQIPObOPQOIDP68i",
@@ -74797,7 +74797,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qI06bbQ1dloi0IIIO1IQ1q8bdPdl6l69",
@@ -75016,7 +75016,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lqd0I0Pbqo60I8iDOO88bbD1d9qlQ18O",
@@ -75089,7 +75089,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qPDO188oQ0i1b8b1b9OPoO0I10lPbQbi",
@@ -75308,7 +75308,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6b6QIoDPoQ010o8Di1q6Q8DdiQll0Di1",
@@ -75527,7 +75527,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PQQd6lQlDqilqliI0IobolqIDlo0Iboq",
@@ -75600,7 +75600,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8OPDQ1oQIOPdqqD18oo0lQ8OQOIbbDoP",
@@ -75819,7 +75819,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0qOPDqq0qld66bll9ob9iIqiiQPiQIDQ",
@@ -75965,7 +75965,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oiIob81i6d6P6qbddOP6Q0d0obQ0PID9",
@@ -76038,7 +76038,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OIOdod8llPlO0lOlb6P8iIQ90qQqoDiP",
@@ -76111,7 +76111,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0QOP6QqdlobOo9i8O6dOl8IdQl89P6PP",
@@ -76257,7 +76257,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "96QPqq0q6Id0Ii0QbD1bQqPbiDqb0lPo",
@@ -76403,7 +76403,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ooil0dl9OobDPblIPlqoi1P9lll6DD89",
@@ -76549,7 +76549,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o6qi6idD9oqIdi81ldQlODqIqIiqlD1d",
@@ -76622,7 +76622,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "il6PIiDq11dD1981dQ00918D96lPQ0iQ",
@@ -76695,7 +76695,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9qbdq1PiI1O81P1PdioQli66Ob9QiiQP",
@@ -76914,7 +76914,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DObld6O6OdblOo1di9dlP86DO909O6qI",
@@ -76987,7 +76987,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1iQIIPdQQOOlP9l90oPdIi60D9OOlqoQ",
@@ -77133,7 +77133,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OqQ68Ooiqi80891QIPoioib11qdl0l9b",
@@ -77206,7 +77206,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DdIbd6Pbl910P6QOqD6iQI0l0b1qdI8q",
@@ -77279,7 +77279,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I8b69IdbID0Di06ldo6o1lb1IdI89Iqo",
@@ -77352,7 +77352,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ii119ll8dOQ8IQqi1IOP1o8DIQbqo8Pi",
@@ -77425,7 +77425,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b08D1ODPP0IqlIl91dDDdD1d0lD8bP1d",
@@ -77498,7 +77498,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8liDbidQoI6Q01lO9iibIdboIiDl66Qo",
@@ -77644,7 +77644,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "odQbP0bQqD89PolQ96II0PiqQQIddPi6",
@@ -77717,7 +77717,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qPDQbQ6lOqqbI9Plb6o9lld0ddIP8oiP",
@@ -77863,7 +77863,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iOPbIi1b99819b9QiD8QbdPbq0DqO0DO",
@@ -77936,7 +77936,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-eyesight",
@@ -78301,7 +78301,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DibOOIOD1id66O0DqOQ61O6I9bIIQQ0q",
@@ -78374,7 +78374,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8id60dlDD69oPDI1DolDI1QboOdio6Pi",
@@ -78520,7 +78520,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0ib0Pqol08o9ODDq166iDl8oll061lPl",
@@ -78666,7 +78666,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6oIO00P8bdqqbP9qlqIqDP1Q1d9PD0qi",
@@ -79031,7 +79031,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "08O1i8ib1lDPbdOoPlD069PoOI1860qi",
@@ -79396,7 +79396,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OlQbP19IPDDDqDDO1bd0DII8IoqDo1QP",
@@ -79469,7 +79469,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Po09DbIQ9QPoboQi0900lbbOqDoPbIod",
@@ -79542,7 +79542,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "remy-neu-stardom-remix",
@@ -79688,7 +79688,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DbQbDQOl0lII16ib1081d6ddIodD0P9I",
@@ -79761,7 +79761,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OPDQ9Oi8I6D1I1iqi8iOiP0bDI9Pl86P",
@@ -79834,7 +79834,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ldDD06dIQ0qQPD9OI88P90OOi0bQPD1O",
@@ -79907,7 +79907,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8006PP188Qldob68ld6OPqlbl1biod6D",
@@ -80053,7 +80053,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I6qdO8Di181P6Q9Ooq0d8d0DOdq1dOOQ",
@@ -80126,7 +80126,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lb01Qb1iOOIIobPO06Oob9ODilIDOQ6Q",
@@ -80199,7 +80199,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OPbd0ldd89Ddll690qiObDld9oDdPdOi",
@@ -80272,7 +80272,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1PoOQPd0D01Q9O0doiQQQ8D8Q096bDq9",
@@ -80564,7 +80564,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qbDidIlodPP6PqI00D18P6dDbioIdDPD",
@@ -80783,7 +80783,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1Ob9Il9bOQdbOQbq00oi1qoo1o1dPoI0",
@@ -80929,7 +80929,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QobO6O8iQP6I16l0I8QPd0Iq6iQ1loQ6",
@@ -81002,7 +81002,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lb9Qo61bbOdQidlQQD8DP8199Q911Id9",
@@ -81075,7 +81075,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l8q6diIod06OdP11P6I8oIddiPo16DPd",
@@ -81148,7 +81148,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ib19PQ61bi0lI8qi98IQ8dOqOoP91olq",
@@ -81221,7 +81221,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d1bQ1iIb0I1PoPOQqliIo9PiQQb1119d",
@@ -81294,7 +81294,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qq8qDqqPQdP0loDI6DDO9d6dQ601iOID",
@@ -81586,7 +81586,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dPbOQdio1OI8OOI6OlOIqI1Ii18i8ID0",
@@ -81659,7 +81659,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0ol981b18biO0610IqPi9l6Db86PbIQ9",
@@ -81805,7 +81805,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DID6l8bbD0D6661lPiP6QIQ1dPbb010d",
@@ -81878,7 +81878,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l666Dd0bIO9O69boPd898b19bPDo1IdO",
@@ -81951,7 +81951,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b0DP0oqbid0iIQ6D88dDIiiDiq9oi19Q",
@@ -82024,7 +82024,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "boO8d11P8o6l89i81i1i1IdPlP109QoQ",
@@ -82097,7 +82097,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OoIPPqIDbQ6qIb69q8dil0iq0l6q6DQD",
@@ -82170,7 +82170,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q88iD188IiqQbIoP9Oq818bPbOP1d1bQ",
@@ -82243,7 +82243,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9bo00PqOIDoDbO6P1116b9obolOiqPo1",
@@ -82535,7 +82535,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9lob1d1QPd9qiPlQOQ6l0dbodOoDPq1d",
@@ -82681,7 +82681,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i0b0118q8D1QlQbIbli0P0IQ0QP08QdO",
@@ -82754,7 +82754,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6OOd69q0oP8iblIIb08OQO9dq9oIq8i6",
@@ -82900,7 +82900,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l6Dbo9DQD0PIb0lbDDb66qqObOloDP6P",
@@ -83265,7 +83265,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bDDd08iP8dlIlOo6iqd91dPiI1lQdOQq",
@@ -83338,7 +83338,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l6d0ibbliQPQDdb1lP18D9qbPDi1698b",
@@ -83411,7 +83411,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I18Iolqio01IlPi9QIqPQ8Q9O6iOod0O",
@@ -83484,7 +83484,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1oIo1DliQqPol00Q1l1bPODbdOilodod",
@@ -83630,7 +83630,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P1boP1O60bdI16i6lqqd1Q8ioiPbolqd",
@@ -83703,7 +83703,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q0QIob1PDI6IP86dlPb6I6il9d6bP606",
@@ -84068,7 +84068,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iI8qbP0IIb16Oi9bIbb8O9dbDDi1ql86",
@@ -84141,7 +84141,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PP0P9ilQb1o160O6O6PqQIl60oDi8Db6",
@@ -84214,7 +84214,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Oq900IIl1Ob8qoIPqDP0PD6blbqIqlP1",
@@ -84287,7 +84287,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qdQoQli1d8DP0Obb919I6P1Odilib1Dd",
@@ -84506,7 +84506,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9I00D9Id61iD6QP8i8Dd6698PoQ9bdi9",
@@ -84652,7 +84652,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8OlQb0IDIOD1qIIiIqI0l6ol06bbDiDi",
@@ -84798,7 +84798,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "id8lqDol8I889lO9ld0Qbqd9O6PoQlld",
@@ -84871,7 +84871,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DdQ1lQ1Qb1P1oPl1QOd0Q0O9qqidiI9q",
@@ -84944,7 +84944,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9idOOIdDO01D8PO06bOPPbOIOoiQ8O0P",
@@ -85309,7 +85309,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "80d8obPdlobP9qlqiDb01999o01q6DdP",
@@ -85455,7 +85455,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "biqbD9I9q9D16i0i1Idb9d111l1QDq86",
@@ -85528,7 +85528,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I8qDQbQoiPPi9D1bdQ6iOlqb0Il9DlI0",
@@ -85601,7 +85601,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lIQ1608o9O6bdoPO0ooi8io8i6q6bO1b",
@@ -85674,7 +85674,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Oqo009llDdDIODldDOI6OIolqlI9PI0d",
@@ -85747,7 +85747,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dlq6qdP1bOPDObbbQQ6b8iPbd1ODq69P",
@@ -85820,7 +85820,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oQq061q091Q16iOO9b8d9d0P9080qP6q",
@@ -85893,7 +85893,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6doo1dQ16Ol86oIbQ19PPldI8lIbP0OI",
@@ -86039,7 +86039,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QD9Ib18D9lIO10O19d16PbPb68q1190d",
@@ -86112,7 +86112,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IdlqO9DoOq0qPQdDbOb80dOPDlb98l0l",
@@ -86185,7 +86185,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ObiiQb81io69166olbOqODQOQO10DbQi",
@@ -86258,7 +86258,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0q90DbbI1O90D91I8ddDdDlP9IdoQ0oo",
@@ -86404,7 +86404,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6QQ1OdO99Ob001OQ90iP86o0I8OoQbib",
@@ -86623,7 +86623,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "111O66bbPIQb09PlIoolIOD666QqqIdP",
@@ -86769,7 +86769,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PDoiQoi9q08PQ96Pl6oD9IIi6iq0Q6D6",
@@ -86842,7 +86842,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D6IIDqlO8idioiPo8l61Ob11D6Di0DiQ",
@@ -87134,7 +87134,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DQ1dqP1IoiD11QOPiI0Q8PqO0Qddo6q6",
@@ -87207,7 +87207,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "d01QdIl6i69DqIbbQQd6IPOiQOObPdIi",
@@ -87280,7 +87280,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "61oIP0QIlO90d18ObDP1Dii6PoIQoOD8",
@@ -87572,7 +87572,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "80PdqQ0iiOQb9i91lIliodiO9PI8O609",
@@ -87791,7 +87791,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q96ld98IPIld98Iq18bqblldOoP91d69",
@@ -87868,7 +87868,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ql1Q8P100IIlbl0Pdi08I8qD900idqQq",
@@ -88014,7 +88014,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6DibIbiiDlq1OiI6QOlPlO1loQOiDb1q",
@@ -88160,7 +88160,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i89IO1PPOl0boOol0bQI19Q9liQ0l6O1",
@@ -88233,7 +88233,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6dQ0P6odPlD6dQdbP8dIiQQdQ66qllI6",
@@ -88379,7 +88379,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "61iqiQDQiobb8Pbq8o9qoldq8PlIdbIb",
@@ -88817,7 +88817,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lO08lblo68qbdPq0dIlIqqdiiOq900Pb",
@@ -88890,7 +88890,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i6bb1iQb8qObPd09dOlibbdqb91Q0OOb",
@@ -88963,7 +88963,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DIiQbd09D0PoIiPl9iP1q8qldOOqol8i",
@@ -89036,7 +89036,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o1d0DDobPPPlq0l8Qli1d6ODI8ldo1qb",
@@ -89109,7 +89109,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dI68Oq96DdIib8o9D80dIdO0i90Q9bDb",
@@ -89182,7 +89182,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qoidddb08iIoDOo9DQoO0loPl8lPQ81o",
@@ -89401,7 +89401,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "boqo0IoO8DodOl99Q8P8qOi8PqDq11b1",
@@ -89474,7 +89474,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IQ0ID09qD6O1oOdIq0oilI8I8l9DlP9b",
@@ -89547,7 +89547,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I9iODl9bl1d8PilOilii9Dd19PP6QI66",
@@ -89620,7 +89620,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OoQiq8OiPbIPI80OqOlliP661bOIDd9o",
@@ -89693,7 +89693,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iQP6PI8oDQi1OPQObDQO1IIP9I8i0I1o",
@@ -89766,7 +89766,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8P1809bo8PoqQoqOQilPidOdobbo6iiO",
@@ -89916,7 +89916,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q96Qo0qbQ81odQoqPOOQ98oDbo6Pb1IO",
@@ -89989,7 +89989,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dodDld060D0QDioqiI0d8Dl111DIDbio",
@@ -90062,7 +90062,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dbod1o098DoibO0PoiPIiQ11Pdlqdoo9",
@@ -90169,7 +90169,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Qqd8ObO96dIQ60808diOOqbdb6boQodO",
@@ -90242,7 +90242,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8069d8dPiqloqD8i8od1o1Pq1Q6Q8i9D",
@@ -90388,7 +90388,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QoODOoqDli0bOoqqDo8ODo1lDI9llblo",
@@ -90461,7 +90461,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q8PqoP91qqI6I909IdQ098091q9q0i19",
@@ -90534,7 +90534,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "liq91ddlPQ16iooqDDQ86qlodIO10Qb1",
@@ -90607,7 +90607,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IlbI1QQOPI0o0IdoPI6QPldqQob16DOq",
@@ -90680,7 +90680,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D8P1qO8bqQIP9bOOP1dPOP660OdIllbD",
@@ -90753,7 +90753,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Do06Q18olQo0bloll9919olDQ8lDoqbd",
@@ -90826,7 +90826,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8Qd118IPdqld06Qd1q10iQd06bDdbdQI",
@@ -90972,7 +90972,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DOd9bIqddQ91qbQI1bdbbDi1lqPObo8l",
@@ -91045,7 +91045,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IdQODl09O66oi0D0o61qdidI8q99Q0iP",
@@ -91118,7 +91118,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8i0QblodqDQ196b0Oi81I0811QI99Q8b",
@@ -91264,7 +91264,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q86b6I1Qi6Q918l6iOoOQl866oQoIQOi",
@@ -91337,7 +91337,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "16b91IPI881lPIo8Qq9Pl1IPiD8Ddodl",
@@ -91483,7 +91483,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iQi1DOQoqI6Q08I89PQD8iIQloPd190I",
@@ -91556,7 +91556,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "160Oo1q8DolI6068lQi66OQbQ9Q8ODQI",
@@ -91848,7 +91848,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1Q809666i9oblO8qO688OiD6OIbiP0Oq",
@@ -91994,7 +91994,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1qdb8P8il9li6DOdPolq9d0d9Q6898oi",
@@ -92140,7 +92140,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0Qb8PDoQ06Q66obPI1P988oI61ioPb6l",
@@ -92359,7 +92359,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qD6P1ldl09Dqq8QP01bbid0b9IdqobPl",
@@ -92505,7 +92505,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DoQi6oPoD9DlO0898oo0ol0qoo6891Db",
@@ -92578,7 +92578,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I0qiD6Ob86D1oQOib81lID6Dll8iOOOP",
@@ -92651,7 +92651,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q8P19lIP698I9Q8oolP98Qb6DIqQ10ql",
@@ -92724,7 +92724,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8909Q00li66qQ906I9QoldIqbiIP1QoQ",
@@ -93016,7 +93016,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0ddPq801D8PiiqO1oqoQbdOIQ9lQl11o",
@@ -93162,7 +93162,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8PIO18IQqIoODlD8866Dd0I0OD8lb9ol",
@@ -93454,7 +93454,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8DO8obP1b669b9QI6q01609bPOdd1o1b",
@@ -93600,7 +93600,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8q96ObOdqPq8blPob9QdDq9b1iQoIQOI",
@@ -93819,7 +93819,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q8Q6d00DoIiPolOb9PIO0Pll96O0I1qD",
@@ -93892,7 +93892,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IPid909iDid06d68IDo816OqbdQq8O0O",
@@ -93965,7 +93965,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P8bQol68qoDbi90D06lQloiP9b09ddDQ",
@@ -94038,7 +94038,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0bDqIO9Q0PPIPlPll1D8Pbol9O6DlPdb",
@@ -94257,7 +94257,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ID8Q0oO98i0D0o1i0doIqo6O0O9QDO68",
@@ -94330,7 +94330,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "loii6b8OODDOl9q0OD88Ibb9I0qO0PPo",
@@ -94403,7 +94403,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D08lqQOPdOO6D6ll690Qd6PdbO111011",
@@ -94549,7 +94549,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8QoODoOldQ9Dodlb9I86liOb0lP010ql",
@@ -94695,7 +94695,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dqOoPll1qlDdo6Pd6O0DPPO6l16OIdD1",
@@ -94768,7 +94768,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QPIbbqb0OIq8dQ8IbiD1O1bI1PPOb1IQ",
@@ -94841,7 +94841,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1qPbqd11l6b8ibq1ODQ6di90PIo0D618",
@@ -94987,7 +94987,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "91bPDIdqPbdOIQPP68Q6IP61Io980QlI",
@@ -95206,7 +95206,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dl09QdQ19IoQl6D81qdlPPIdolP1lDi0",
@@ -95279,7 +95279,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o8Ib0Qbbd1oQl1qD8DoIDOodOq1l1ld9",
@@ -95352,7 +95352,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dl69Pb9OQDlbOi80OQdIObiQ1Q08Dlqo",
@@ -95425,7 +95425,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i8O81i0iQdqiI8qqP0oo8IPl9IoId1bO",
@@ -95498,7 +95498,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l9QibD8IoooD9DIl1O8Q0lo89I9qdido",
@@ -95571,7 +95571,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i91q8l0bbi8qll000ob6qDiQP891iiql",
@@ -95644,7 +95644,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iDli1d0oP8lI6i8Qobbilo86OIPIqQlb",
@@ -95721,7 +95721,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iQDQD8889Q8O018Oi60I69D6qD6odDI0",
@@ -95794,7 +95794,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8Q8OiP8QPbl8bqID1loQq896ldPQd99o",
@@ -95940,7 +95940,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0lDdI8D6qd6DqI1l90qOi0lod06iOI9O",
@@ -96159,7 +96159,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QQOOldqQ8QQDQ06i81d9DP9PlOlo1lqq",
@@ -96232,7 +96232,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o91qiqqDi9b6d6l1dQ6qO6oO0QDIlPql",
@@ -96305,7 +96305,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QlQ9Qb00bI0ob9oDIiPqO1QdQ0o6O0O6",
@@ -96378,7 +96378,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9obIQOP8O1l0PQ0Oi1oPQI198o0Pd81o",
@@ -96524,7 +96524,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Od6ddPiQ9qD89loO9lQ86b96bl9DlP10",
@@ -96597,7 +96597,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dQlo0DDqlIPod6bq89DPDODllDOi681i",
@@ -96670,7 +96670,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lIlold9IQbDb0d6IdP6600DOQIDb9dOP",
@@ -96743,7 +96743,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "loQ0Ibqqo8OO11oI9i9D6o0DDI0PDiOO",
@@ -96816,7 +96816,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D0Qb898oqblPoP68PPq1o9i9dI9o0D9i",
@@ -96962,7 +96962,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O6ld8Oo6Dq6OO61dIl1iPqqPO8b0d9bd",
@@ -97035,7 +97035,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I6Dd0QIi086il1918dQI6dq0l1d9ibD0",
@@ -97108,7 +97108,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IbDoODD9qb66Iqd6DbOQiOoDll1DqiO9",
@@ -97181,7 +97181,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PQq8l8DDD6lP8bbQlid9Q1iO18IQqo1b",
@@ -97254,7 +97254,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9qQP11666b9qO16QIQ0oQ8PPi01IIDQi",
@@ -97400,7 +97400,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "91dD6iqPO066do99169POPbQPbo9o6oq",
@@ -97546,7 +97546,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DQO6qbiP6dldo6IIqlob9i8dqiqOio6o",
@@ -97619,7 +97619,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "86qbo0Iq81qqQiP0i0OoOP09q1qPlDdl",
@@ -97765,7 +97765,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "16bl8D8lOddP9Obq0OIlOI6q8Pi1l9O0",
@@ -97911,7 +97911,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q098DQOP0b6q69lioP6lDoDP0o0066i8",
@@ -97984,7 +97984,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i9Qo61dD9lloDIO6OlI9o6oOiDd1d9i1",
@@ -98057,7 +98057,7 @@
     "created_at": "2026-11-24",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D68PQib86POo9D6O8Q0qO8bD6bDb1bdl",
@@ -98349,7 +98349,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IdOQPlbD9d9IO16Pd1IDO0b88Qo0boO9",
@@ -98422,7 +98422,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "o9iQ96669qo618i6DobbdD8I1lPiq8oQ",
@@ -98495,7 +98495,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "D11ldIqD8dQIi9oQQIIo86QOI8D9olP8",
@@ -98641,7 +98641,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QlID98Ddoi6O8lP8IQd6iid610011l60",
@@ -98714,7 +98714,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b86i9lPlObdl1008PO0PIi09q9o9l88i",
@@ -98787,7 +98787,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lDIO66Dqili0bD0Qo00iIlO6b100i8i0",
@@ -98860,7 +98860,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ilbQ0lq89DId9oDl89lbb8lQIPl6i0QO",
@@ -98933,7 +98933,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I606oqOODOdQoP0IQOdP6b0DPdb86ddO",
@@ -99006,7 +99006,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ilD80b8QQl9Qo0PP0lQ00b8bO9Oqoobo",
@@ -99079,7 +99079,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ibI0QllidqQ089ql8dob6bIoodbbIoqq",
@@ -99152,7 +99152,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q9Q088PPd0bPi9QQ8iil1lQqPdiQP69D",
@@ -99225,7 +99225,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i9il1DIDl91Db0OdllOddIqO600Pl89q",
@@ -99298,7 +99298,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6l99bqIQOQl0QQDIoiQ6PQPOoDPlD0O9",
@@ -99517,7 +99517,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bqoboI0o8lIObPPdqq8lDDdI8b1QPDb1",
@@ -99590,7 +99590,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I1qd16dPdqPi96ql0lP10OQDbo11D89P",
@@ -99663,7 +99663,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "db6q6DlPd68bbQOOQ99OI1I9QD8PqDo8",
@@ -99736,7 +99736,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PoO90Q6P0q9oOQ16i0P0l1iodOQP9o0O",
@@ -99809,7 +99809,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lOb8O16P9P81olPdI1o1Dl9I6QQoIqIP",
@@ -99882,7 +99882,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6OIoOPDb9iI8i1Do9qQ96Q0ddOdd6q9i",
@@ -100028,7 +100028,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Pb0D8b8b8PoDIO9Q9DbiQiI8qi0D89D8",
@@ -100101,7 +100101,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dD6DOI1lDI8o90iO006Dl96D1doDdQ69",
@@ -100174,7 +100174,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IPq86q6iq6DP9IOPiiP090PoI0Qb0Io8",
@@ -100247,7 +100247,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DDDiQOd1IQQ6QIIq09PDqdQdDIll6bQI",
@@ -100320,7 +100320,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Iq6olol00o1q66l61QIDdl6biq8OoIoQ",
@@ -100393,7 +100393,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I86OI9lQ1qQ66dPDlddo8PoPo01PO66i",
@@ -100466,7 +100466,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q0d16D8DDo1P8i086QOQI90i0d1oD9l8",
@@ -100539,7 +100539,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Pd8bD1od1iOOl80oOiiiIb9QdqIQQllQ",
@@ -100612,7 +100612,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b8QDI09il61i0qlO9IibPQPiqQOoi6iQ",
@@ -100685,7 +100685,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0Q6I1llb809bd8i1oo86PQdlo6IQ8DQd",
@@ -100831,7 +100831,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "IDP9ldQoD8bdQ6d9Q0oI6QlI9b6Db9Oo",
@@ -100904,7 +100904,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "ld8lOqloqD6lOl880ldDo819bDb9q1Qi",
@@ -100977,7 +100977,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "dlqPb1iqPo81qI89816QIoi01b1b0P06",
@@ -101050,7 +101050,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I8diIQiPO90qDD60oQ0o669I99dI69DD",
@@ -101123,7 +101123,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O9qDQOQO8dDDIiO9dPP0Pb8qQo9l89D9",
@@ -101196,7 +101196,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i0P1O6lbP1oDd6q6b08iPPoq6iPdI818",
@@ -101269,7 +101269,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9bqO1dPbO1b89q9dO1iOP1ibiPdP01q9",
@@ -101415,7 +101415,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8D0OOb0bi90oi1Io9iIqqiI9110ll8I1",
@@ -101707,7 +101707,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oPP1Pdl6Qdlb8oq10PP1doDibdbbl9bl",
@@ -101780,7 +101780,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "96d9qiDD8l09DQq6O1DO6O6I1IdP8q0D",
@@ -102072,7 +102072,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6IDll6i6d8iII686qq6DddiI00iD8o9d",
@@ -102291,7 +102291,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1bo1qQDPidPPOlD16Ii9PoQOlQ996qb8",
@@ -102510,7 +102510,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P0IoP69l6q08q8DoPD1Q8bqq099Pi1iP",
@@ -102583,7 +102583,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Q9iiOo800blDqO0DDDPI1PIbl1lIidI1",
@@ -102729,7 +102729,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OoQoQIP06Doq1d88dDQQdlQ8i68Do9DO",
@@ -102802,7 +102802,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Pd1d96Q91oiboqb86DdddD68dbq81Pdo",
@@ -102875,7 +102875,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "l0OPoQ1O8q8DPDo0Iol6qD6DiIqdD9P9",
@@ -102948,7 +102948,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6dO6i9qq601D8ild9QIlbO8bodbiQ1Pl",
@@ -103167,7 +103167,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P160qOD09PQoOPI6iIOO69qDoqQl1qDQ",
@@ -103240,7 +103240,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "I1ilo0odi6o8QI8Oblo8Dlb0odOb0qoD",
@@ -103313,7 +103313,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "lO8O011qIqioPDi9d0oib09DDDPIbqOI",
@@ -103386,7 +103386,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dooii0960OioP6Q1l0qi68Q8Dbd9OO91",
@@ -103459,7 +103459,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "POoldOddQl9Dbq8b6iOP0iPoQd6IdOPl",
@@ -103532,7 +103532,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "PdD1dlq1q00q8o9Il6IIqi61Il9DIo61",
@@ -103605,7 +103605,7 @@
     "created_at": "",
     "updated_at": "2026-11-24",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "16l6O00OPl9Ilqob1i8PlllDP1b6898Q",
@@ -103897,7 +103897,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "618q1bI6Odd9dqQd9Q8OIoOdolqi66lq",
@@ -104043,7 +104043,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "i080lP1QqIiO998qPl888qboIiIDdiD1",
@@ -104116,7 +104116,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oQ9QDQ6I9oo9DP8Oi86id61o9Pbbl9bD",
@@ -104189,7 +104189,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "b9iI8O6bd0bq0I1OoooQ9i9iddidODbO",
@@ -104262,7 +104262,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qb9Od0IQI16b6D9PP0O6ilqoq0dDQO66",
@@ -104773,7 +104773,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "OboID1PloIIoOOObQdQOP110I61Ddl9I",
@@ -104846,7 +104846,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "6d10P0Pd1PiD1l6DPQdoPD1Q8DP0QlqQ",
@@ -104992,7 +104992,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dl690bPIlIq0Ol1PdPbb9QO0I66lIqO0",
@@ -105065,7 +105065,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "88qq1I89IQ8P9PdqbbdD0ood8oi9d68I",
@@ -105211,7 +105211,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Qb006IP91qidb1PIPqilliP90qOqDD9d",
@@ -105284,7 +105284,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "diPbi6I8O1lQ1b9lO0q8IoqDqbD9P6dP",
@@ -105357,7 +105357,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "iD8qIio8d1QQblQ06iPDlo69D9bQI9b8",
@@ -105430,7 +105430,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "0b96d606l9bdllQDi1Q89d1O0IPlIb69",
@@ -105576,7 +105576,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "8IoP10odbqPdPPbIq01OID99o98DIoQl",
@@ -105722,7 +105722,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "II8Dlo69PoPOII9P88qdlQPP8I61DlDo",
@@ -105795,7 +105795,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "DDlbDddPO8liioQ196P0I9090bDDPQ6Q",
@@ -105868,7 +105868,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Od08diDbdbl1Pi90QdO0ibqq8D111q9b",
@@ -105941,7 +105941,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "llo89P08I1PlID9DO8lqdbbq69O8Qiib",
@@ -106014,7 +106014,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dl89dQdOQooI0i0DoPQd68db6di86PD8",
@@ -106087,7 +106087,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "88lIDIi1Pi0IObl8D9oblqQ9PPdI1DqI",
@@ -106233,7 +106233,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1dq6Oq918dIQb1doqQdbiPPPO9lIdl0P",
@@ -106379,7 +106379,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "9PO0qPdi1OQo68Qb09qdIOo6008QoIPq",
@@ -106525,7 +106525,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q1DPdd1ooiPi9P0b0Obqq1QqbD86Qb18",
@@ -106671,7 +106671,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "P8DoiO0QO6Qb8iiP9D1IQ080lQQPD6ll",
@@ -106744,7 +106744,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1d9lDIl6iiiD0D0d8qd6dlDlq6P8o0QI",
@@ -106890,7 +106890,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "O91llDdDb1lbbPDbDoPQ09l0l68o9iQ1",
@@ -106963,7 +106963,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qib6O1d6010d8Iql8IQ0q8diqOP6dIqb",
@@ -107109,7 +107109,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bq8DOQ9Idq9Ii9PQ1bqPIQoQPl961d1o",
@@ -107182,7 +107182,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "1l0i6b10D8dbD60QIbiqlidQo9d69qII",
@@ -107397,7 +107397,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "qIqqdd1Odqi1Iiolq9qqPOi0bPPld8Pb",
@@ -107522,7 +107522,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "bdP0IOiPiQ8OlIbD1QQO8O6dPQqqb1Qb",
@@ -107595,7 +107595,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "oOI18qilo91qPQl9Q0l9iliO96Pi6DIi",
@@ -107668,7 +107668,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "q1bb1QI8d08iq9OdIl9PO0ioDi6IQ9oD",
@@ -107887,7 +107887,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "QiPiIb8I99loq8loIq91iP6l1OOoq8oq",
@@ -107960,7 +107960,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "Dbl69I9bO9qo6iidPbPPPD11boQPqi8q",
@@ -108033,7 +108033,7 @@
     "created_at": "",
     "updated_at": "",
     "deleted_at": "",
-    "jacket": false
+    "jacket": true
   },
   {
     "id": "16oDDIlP8bIODQ6Ql0881d9Qqdb19b98",
