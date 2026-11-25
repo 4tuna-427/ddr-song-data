@@ -183,6 +183,11 @@ def main() -> int:
         else:
             print("CF_API_TOKEN / CF_ACCOUNT_ID / KV_NAMESPACE_ID not set: "
                   "plan only, nothing uploaded.")
+            # The workflow's commit step git-adds the state file; make
+            # sure it exists even when nothing was uploaded yet.
+            if not os.path.exists(args.state):
+                with open(args.state, "w") as f:
+                    json.dump({}, f)
             return 0
     if args.dry_run:
         return 0
