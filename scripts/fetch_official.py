@@ -19,6 +19,7 @@ import time
 
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
 BASE = "https://p.eagate.573.jp/game/ddr/ddrworld/music/index.html"
 UA = "ddr-data-pipeline/0.1 (personal project; https://github.com/4tuna-427)"
@@ -35,7 +36,8 @@ def parse_page(html: str) -> list[dict]:
         artist_el = tr.select_one(".artist")
         if not img or not title_el:
             continue
-        m = re.search(r"[?&]img=([^&]+)", img.get("src", ""))
+        src = img.get("src", "")
+        m = re.search(r"[?&]img=([^&]+)", src)
         if not m:
             continue
         levels = {"sp": {}, "dp": {}}
@@ -53,6 +55,7 @@ def parse_page(html: str) -> list[dict]:
         songs.append(
             {
                 "id": m.group(1),
+                "jacket_url": urljoin("https://p.eagate.573.jp", src) if src else None,
                 "title": title_el.get_text(strip=True),
                 "artist": artist_el.get_text(strip=True) if artist_el else "",
                 "levels": levels,

@@ -63,6 +63,13 @@ jobs:
       - name: Apply diffs (add / update / tombstone)
         run: python scripts/run_pipeline.py
 
+      - name: Sync jackets to Cloudflare KV (authenticated delivery)
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          KV_NAMESPACE_ID: ${{ secrets.KV_NAMESPACE_ID }}
+        run: python scripts/sync_jackets.py
+
       - name: Prepare delivery file (same path as the GAS version)
         run: |
           mkdir -p dist
@@ -72,7 +79,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add phase3/master.json phase3/out phase3/changelog-*.json phase2/remy_pages.json phase1/remy_world_full_list.txt phase3/bemani_removed.html
+          git add phase3/master.json phase3/out phase3/changelog-*.json phase2/remy_pages.json phase1/remy_world_full_list.txt phase3/bemani_removed.html phase3/jackets_state.json
           if git diff --cached --quiet; then
             echo "no state changes"
           else

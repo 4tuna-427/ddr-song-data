@@ -182,6 +182,7 @@ def main() -> int:
             "in_official_list": False, "in_current_dataset": False,
             "remy_page": r["page"], "remy_match": "remy_only",
             "phash_8": None, "phash_16": None, "availability": "standard",
+            "jacket_url": None,
         }
 
     # 4) Previous delivery baseline.

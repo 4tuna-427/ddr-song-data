@@ -191,6 +191,7 @@ def main() -> int:
             "remy_page": r["page"] if r else None,
             "remy_match": match_method,
             "phash_8": cur["phash_8"] if cur else None,
+            "jacket_url": off.get("jacket_url") if off else None,
             "phash_16": cur["phash_16"] if cur else None,
         })
 
