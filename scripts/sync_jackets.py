@@ -205,10 +205,12 @@ def main() -> int:
 
     fetched = 0
     failed = 0
+    local_written = 0
     pending: list[dict] = []
     for song in to_fetch:
-        # Budget counts every KV write: queued puts plus local-mode files.
-        if writes + len(pending) + fetched >= args.max_writes:
+        # Budget = KV writes spent so far: flushed batches + queued puts
+        # (+ files written in local mode). Count each song exactly once.
+        if writes + len(pending) + local_written >= args.max_writes:
             break
         got = fetch_jacket(song)
         if got is None:
@@ -220,6 +222,7 @@ def main() -> int:
             os.makedirs(args.local_dir, exist_ok=True)
             with open(os.path.join(args.local_dir, f"{song['id']}.jpg"), "wb") as f:
                 f.write(data)
+            local_written += 1
         else:
             pending.append({
                 "key": song["id"],
