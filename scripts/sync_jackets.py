@@ -169,8 +169,13 @@ def main() -> int:
 
     desired = {s["id"]: s for s in master if not s.get("deleted_at")}
     to_delete = sorted(set(state) - set(desired))
-    to_fetch = [s for sid, s in sorted(desired.items()) if sid not in state]
-    print(f"desired={len(desired)} in_kv={len(state)} "
+    # Entries without "v": 2 were stored by the first version of this
+    # script, which forgot "base64": true on the bulk PUT — KV holds the
+    # base64 TEXT of those images instead of the image bytes. They count
+    # as not-in-KV here and are re-uploaded (overwritten) automatically.
+    in_kv = {sid for sid, rec in state.items() if rec.get("v") == 2}
+    to_fetch = [s for sid, s in sorted(desired.items()) if sid not in in_kv]
+    print(f"desired={len(desired)} in_kv={len(in_kv)} "
           f"to_fetch={len(to_fetch)} to_delete={len(to_delete)}")
 
     token = os.environ.get("CF_API_TOKEN")
@@ -227,9 +232,12 @@ def main() -> int:
             pending.append({
                 "key": song["id"],
                 "value": base64.b64encode(data).decode(),
+                # Without this, KV stores the base64 text itself instead
+                # of the decoded image bytes.
+                "base64": True,
                 "metadata": {"content_type": "image/jpeg"},
             })
-        state[song["id"]] = {"source": source, "sha256": digest, "bytes": len(data)}
+        state[song["id"]] = {"source": source, "sha256": digest, "bytes": len(data), "v": 2}
         fetched += 1
         if len(pending) >= BATCH:
             kv.put_many(pending)
@@ -243,8 +251,9 @@ def main() -> int:
     with open(args.state, "w") as f:
         json.dump(state, f, ensure_ascii=False, indent=1, sort_keys=True)
 
+    valid = {sid for sid, rec in state.items() if rec.get("v") == 2}
     for s in master:
-        s["jacket"] = s["id"] in state
+        s["jacket"] = s["id"] in valid
     with open(args.master, "w") as f:
         json.dump(master, f, ensure_ascii=False, indent=2)
     with open(args.out, "w") as f:
