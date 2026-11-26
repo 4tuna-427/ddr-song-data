@@ -1,0 +1,26 @@
+{
+  "run_date": "2026-11-26",
+  "added": [],
+  "id_migrations": [],
+  "updated": [],
+  "tombstoned": [],
+  "manual_maps_applied": [
+    {
+      "title": "CANDY♡",
+      "page": "CANDY (Riyu Kosaka)"
+    },
+    {
+      "title": "RЁVOLUTIФN",
+      "page": "REVOLUTION"
+    },
+    {
+      "title": "チルノのパーフェクトさんすう学園【ビートまりお】",
+      "page": "Cirno no perfect sansuu gakuen"
+    }
+  ],
+  "enrichment_fills": {
+    "artist": 1480,
+    "bpm": 1480,
+    "notecounts": 1480
+  }
+}
