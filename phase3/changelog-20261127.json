@@ -1,0 +1,32 @@
+{
+  "run_date": "2026-11-27",
+  "added": [],
+  "id_migrations": [],
+  "updated": [],
+  "tombstoned": [
+    {
+      "id": "dbod1o098DoibO0PoiPIiQ11Pdlqdoo9",
+      "title": "テレキャスタービーボーイ",
+      "deleted_at": "2026-11-24"
+    }
+  ],
+  "manual_maps_applied": [
+    {
+      "title": "CANDY♡",
+      "page": "CANDY (Riyu Kosaka)"
+    },
+    {
+      "title": "RЁVOLUTIФN",
+      "page": "REVOLUTION"
+    },
+    {
+      "title": "チルノのパーフェクトさんすう学園【ビートまりお】",
+      "page": "Cirno no perfect sansuu gakuen"
+    }
+  ],
+  "enrichment_fills": {
+    "artist": 1480,
+    "bpm": 1480,
+    "notecounts": 1480
+  }
+}
