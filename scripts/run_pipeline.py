@@ -8,6 +8,7 @@ produces the new master dataset, applying:
   provisional IDs),
 - ID migrations (phase3/id_migrations.json),
 - manual title mappings (phase3/manual_title_map.json),
+- notecount overrides (phase3/notecount_overrides.json),
 - field updates (levels / title / version) with updated_at bumps,
 - tombstones: songs on BEMANIWiki's removed-songs list get deleted_at
   (records are never dropped),
@@ -37,6 +38,7 @@ ENRICHED = "phase2/enriched_songs.json"
 REMY = "phase2/remy_songs.json"
 MANUAL_MAP = "phase3/manual_title_map.json"
 MIGRATIONS = "phase3/id_migrations.json"
+NOTECOUNT_OVERRIDES = "phase3/notecount_overrides.json"
 REMOVED_HTML = "phase3/bemani_removed.html"
 MASTER = "phase3/master.json"
 OUT_DELIVERY = "phase3/out/songs.json"
@@ -96,6 +98,48 @@ def parse_removed(html_path: str) -> dict:
     return out
 
 
+def apply_notecount_overrides(records: dict, overrides: list, changelog: dict) -> None:
+    """User-confirmed corrections to wiki notecounts.
+
+    The delivered notecounts come from community wikis and can be
+    wrong (Snow Garland Fairy ESP: wiki 593 notes, but the game's own
+    MAX COMBO is 595 and a verified play proves 595). The correction
+    must live in phase3/notecount_overrides.json, not in the generated
+    files: the enriched snapshot and master.json are regenerated on
+    every run. An override replaces only the fields it names; for a
+    chart with no usable notecount entry yet, the override must name
+    notes/freeze/shock in full or it is skipped — a partial entry
+    would break the consumer's judge-sum identity.
+    """
+    for ov in overrides:
+        e = records.get(ov.get("id"))
+        if e is None:
+            print(f"WARN notecount override id not found: {ov.get('id')} ({ov.get('title')})",
+                  file=sys.stderr)
+            continue
+        chart = ov.get("chart")
+        named = {f: ov[f] for f in ("notes", "freeze", "shock") if ov.get(f) is not None}
+        if not chart or not named:
+            continue
+        if not isinstance(e.get("notecounts"), dict):
+            e["notecounts"] = {}
+        cur = e["notecounts"].get(chart)
+        has_entry = isinstance(cur, dict) and isinstance(cur.get("notes"), int)
+        if not has_entry and not all(f in named for f in ("notes", "freeze", "shock")):
+            print(f"WARN notecount override needs full counts for a chart "
+                  f"without an entry: {ov.get('title')} {chart}", file=sys.stderr)
+            continue
+        before = dict(cur) if has_entry else {}
+        after = {**before, **named}
+        e["notecounts"][chart] = after
+        changelog["notecount_overrides"].append(
+            {"id": ov["id"], "title": e["title"], "chart": chart,
+             "before": before or None, "after": after})
+        if named.get("notes") is not None and before.get("notes") == named["notes"]:
+            print(f"NOTE notecount override now matches upstream; "
+                  f"consider retiring it: {ov.get('title')} {chart}", file=sys.stderr)
+
+
 def levels_of_v1(song: dict) -> dict:
     def v(k):
         x = song.get(k, "")
@@ -113,8 +157,14 @@ def main() -> int:
     migrations = json.load(open(MIGRATIONS))["migrations"]
     removed = parse_removed(REMOVED_HTML)
 
+    try:
+        nc_overrides = json.load(open(NOTECOUNT_OVERRIDES))["corrections"]
+    except FileNotFoundError:
+        nc_overrides = []
+
     changelog = {"run_date": run_date, "added": [], "id_migrations": [],
                  "updated": [], "tombstoned": [], "manual_maps_applied": [],
+                 "notecount_overrides": [],
                  "enrichment_fills": {"artist": 0, "bpm": 0, "notecounts": 0}}
 
     records = {e["id"]: dict(e) for e in enriched}
@@ -184,6 +234,11 @@ def main() -> int:
             "phash_8": None, "phash_16": None, "availability": "standard",
             "jacket_url": None,
         }
+
+    # 3.5) Notecount overrides: applied after every record source
+    # (enriched, manual maps, RemyWiki-only) so no path can clobber
+    # them, and before the diff step so the delivery carries them.
+    apply_notecount_overrides(records, nc_overrides, changelog)
 
     # 4) Previous delivery baseline.
     try:
@@ -265,7 +320,8 @@ def main() -> int:
     json.dump(changelog, open(clog_path, "w"), ensure_ascii=False, indent=2)
     print(f"bootstrap={bootstrap} master={len(master)} added={len(changelog['added'])} "
           f"updated={len(changelog['updated'])} tombstoned={len(changelog['tombstoned'])} "
-          f"migrations={len(changelog['id_migrations'])} manual={len(changelog['manual_maps_applied'])}")
+          f"migrations={len(changelog['id_migrations'])} manual={len(changelog['manual_maps_applied'])} "
+          f"nc_overrides={len(changelog['notecount_overrides'])}")
     return 0
 
 
