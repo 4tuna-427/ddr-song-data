@@ -24,6 +24,21 @@
       "page": "Cirno no perfect sansuu gakuen"
     }
   ],
+  "notecount_overrides": [
+    {
+      "id": "8ql0DIiI0D9D1OP0qb8olo9bIQdP0ddq",
+      "title": "Snow Garland Fairy",
+      "chart": "sp_expert",
+      "before": {
+        "notes": 593,
+        "freeze": 6
+      },
+      "after": {
+        "notes": 595,
+        "freeze": 6
+      }
+    }
+  ],
   "enrichment_fills": {
     "artist": 1480,
     "bpm": 1480,
