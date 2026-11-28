@@ -2,7 +2,22 @@
   "run_date": "2026-11-28",
   "added": [],
   "id_migrations": [],
-  "updated": [],
+  "updated": [
+    {
+      "id": "9IOdDPPO1IIPD9oDbOPo0Qo99Ii6Q8oi",
+      "title": "LA BAMBA",
+      "fields": {
+        "sp_challenge": [
+          13,
+          null
+        ],
+        "dp_challenge": [
+          13,
+          null
+        ]
+      }
+    }
+  ],
   "tombstoned": [
     {
       "id": "dbod1o098DoibO0PoiPIiQ11Pdlqdoo9",

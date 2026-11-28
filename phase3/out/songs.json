@@ -37161,71 +37161,71 @@
     "title": "LA BAMBA",
     "artist": "メキシコ民謡",
     "version_current": "Extreme",
-    "version_remy_first_ddr": "SuperNOVA",
-    "bpm": "156",
-    "length": "1:42",
+    "version_remy_first_ddr": "EXTREME",
+    "bpm": "179",
+    "length": "1:32",
     "levels": {
       "sp_beginner": 3,
       "sp_basic": 4,
       "sp_difficult": 8,
       "sp_expert": 11,
-      "sp_challenge": 13,
+      "sp_challenge": null,
       "dp_basic": 4,
       "dp_difficult": 8,
       "dp_expert": 10,
-      "dp_challenge": 13
+      "dp_challenge": null
     },
     "notecounts": {
       "sp_beginner": {
-        "notes": 110,
+        "notes": 99,
         "freeze": 0
       },
       "sp_basic": {
-        "notes": 155,
-        "freeze": 1
+        "notes": 119,
+        "freeze": 8
       },
       "sp_difficult": {
-        "notes": 247,
-        "freeze": 1
+        "notes": 209,
+        "freeze": 16
       },
       "sp_expert": {
-        "notes": 328,
-        "freeze": 1
+        "notes": 305,
+        "freeze": 10
       },
       "sp_challenge": {
-        "notes": 379,
-        "freeze": 12,
-        "shock": 0
+        "notes": "-",
+        "freeze": "-",
+        "shock": "-"
       },
       "dp_basic": {
-        "notes": 155,
-        "freeze": 1
+        "notes": 118,
+        "freeze": 6
       },
       "dp_difficult": {
-        "notes": 247,
-        "freeze": 1
+        "notes": 211,
+        "freeze": 14
       },
       "dp_expert": {
-        "notes": 328,
-        "freeze": 1
+        "notes": 282,
+        "freeze": 14
       },
       "dp_challenge": {
-        "notes": 368,
-        "freeze": 13,
-        "shock": 0
+        "notes": "-",
+        "freeze": "-",
+        "shock": "-"
       }
     },
     "in_official_list": true,
     "in_current_dataset": true,
-    "remy_page": "La Bamba",
-    "remy_match": "exact_norm",
+    "remy_page": "LA BAMBA",
+    "remy_match": "exact_norm_disambiguated",
     "phash_8": "cb8936168c8df3b2",
     "jacket_url": "https://p.eagate.573.jp/game/ddr/ddrworld/images/binary_jk.html?img=9IOdDPPO1IIPD9oDbOPo0Qo99Ii6Q8oi&kind=1",
     "phash_16": "cbe189d5371e162a8ca98dd5f3eab2ab5e45dc54013a0d0f6cd5f1f2b3280e15",
     "id_status": "official",
     "availability": "standard",
     "created_at": "",
-    "updated_at": "2026-11-24",
+    "updated_at": "2026-11-28",
     "deleted_at": "",
     "jacket": true
   },
@@ -38167,7 +38167,7 @@
     "in_official_list": true,
     "in_current_dataset": true,
     "remy_page": "La Bamba",
-    "remy_match": "exact_norm",
+    "remy_match": "exact_norm_disambiguated",
     "phash_8": "a55a97f0590ba86d",
     "jacket_url": "https://p.eagate.573.jp/game/ddr/ddrworld/images/binary_jk.html?img=qbQ9I1bI6q91Q18DlDlI1Qdi8q6Qlo91&kind=1",
     "phash_16": "a5975a699796f18c594f0fbaa8d06d05ceeaa52ee8e6415cdd261aa2207d5693",
@@ -65604,7 +65604,7 @@
     "in_official_list": true,
     "in_current_dataset": true,
     "remy_page": "TAKE ME HIGHER",
-    "remy_match": "exact_norm",
+    "remy_match": "exact_norm_disambiguated",
     "phash_8": "943d61ad497a4bd2",
     "jacket_url": "https://p.eagate.573.jp/game/ddr/ddrworld/images/binary_jk.html?img=PoiPd1OP1q9I9IP00PDlI1Q09QQ9b16o&kind=1",
     "phash_16": "94143deb60c2ad5c49e37a9c4b6fd2970ca966f69cbac1a174361c6ba5859c69",
@@ -82396,9 +82396,9 @@
     "title": "take me higher",
     "artist": "KOTONOHOUSE",
     "version_current": "A20 PLUS",
-    "version_remy_first_ddr": "A3",
-    "bpm": "140-175",
-    "length": "1:50",
+    "version_remy_first_ddr": "A20 PLUS",
+    "bpm": "140",
+    "length": "1:53",
     "levels": {
       "sp_beginner": 3,
       "sp_basic": 5,
@@ -82412,20 +82412,20 @@
     },
     "notecounts": {
       "sp_beginner": {
-        "notes": 112,
-        "freeze": 1
+        "notes": 126,
+        "freeze": 0
       },
       "sp_basic": {
-        "notes": 236,
-        "freeze": 14
+        "notes": 216,
+        "freeze": 2
       },
       "sp_difficult": {
-        "notes": 378,
-        "freeze": 12
+        "notes": 307,
+        "freeze": 15
       },
       "sp_expert": {
-        "notes": 509,
-        "freeze": 10
+        "notes": 416,
+        "freeze": 12
       },
       "sp_challenge": {
         "notes": "-",
@@ -82433,15 +82433,15 @@
         "shock": "-"
       },
       "dp_basic": {
-        "notes": 220,
-        "freeze": 12
+        "notes": 211,
+        "freeze": 2
       },
       "dp_difficult": {
-        "notes": 382,
-        "freeze": 9
+        "notes": 305,
+        "freeze": 15
       },
       "dp_expert": {
-        "notes": 531,
+        "notes": 403,
         "freeze": 9
       },
       "dp_challenge": {
@@ -82452,8 +82452,8 @@
     },
     "in_official_list": true,
     "in_current_dataset": true,
-    "remy_page": "TAKE ME HIGHER",
-    "remy_match": "exact_norm",
+    "remy_page": "take me higher",
+    "remy_match": "exact_norm_disambiguated",
     "phash_8": "e3909463996ee897",
     "jacket_url": "https://p.eagate.573.jp/game/ddr/ddrworld/images/binary_jk.html?img=0088dOQPiD0Qb0Dl8ol09D98IOllI1id&kind=1",
     "phash_16": "e33390fc948b632399686e91e879976c5a97c8e8afcbe8351a420c3da4e87b93",
