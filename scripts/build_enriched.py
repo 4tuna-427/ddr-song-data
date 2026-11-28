@@ -3,7 +3,13 @@
 
 Matching: RemyWiki entries are matched to songs by normalized title
 (NFKC, zero-width-space removed, whitespace collapsed, case-folded).
-Duplicate normalized titles are reported, not silently merged.
+Duplicate normalized titles are reported, not silently merged. When
+several songs share one normalized title (e.g. 'TAKE ME HIGHER' by DJ
+Shimamura vs 'take me higher' by KOTONOHOUSE, which are distinct
+RemyWiki pages differing only in case), the songs are paired with
+their own pages by exact (case-sensitive) title and artist before any
+RemyWiki field is copied; a song that cannot be paired confidently
+gets no RemyWiki fields rather than another song's data.
 
 Field policy (from Phase 1):
 - title / artist: official list first; for songs the official list does
@@ -107,6 +113,9 @@ def main() -> int:
     remy_by_loose = {}
     for r in remy:
         remy_by_loose.setdefault(loose_title(r["display_title"]), []).append(r)
+    remy_multi = {}
+    for r in remy:
+        remy_multi.setdefault(norm_title(r["display_title"]), []).append(r)
 
     off_by_id = {s["id"]: s for s in official}
     cur_by_id = {s["id"]: s for s in current}
@@ -120,13 +129,75 @@ def main() -> int:
         "version_mismatches_vs_current": [], "challenge_from_remy": 0,
     }
     used_remy_pages = set()
+
+    # Same-title disambiguation. norm_title() case-folds, so distinct
+    # songs whose titles differ only in case (and their distinct
+    # RemyWiki pages) collapse onto one key. Giving every such song the
+    # first page would copy one song's bpm/length/notecounts/Challenge
+    # levels onto the others, so groups of >1 song with >=1 candidate
+    # page are paired up front: a page scores +2 for an exact
+    # (case-sensitive, whitespace-collapsed) title match and +2 for an
+    # artist match against the page's Artist line; pairs are assigned
+    # greedily by score, and a song with no confident page gets none.
+    def exact_title_key(t: str) -> str:
+        t = unicodedata.normalize("NFKC", t or "").replace("​", "").replace("　", " ")
+        return re.sub(r"\s+", " ", t).strip()
+
+    songs_by_norm = {}
+    for sid in all_ids:
+        s = off_by_id.get(sid) or cur_by_id.get(sid)
+        songs_by_norm.setdefault(norm_title(s["title"]), []).append(sid)
+    assigned = {}
+    collisions = []
+    for key, sids in songs_by_norm.items():
+        pages = remy_multi.get(key, [])
+        if len(sids) <= 1 or not pages:
+            continue
+        triples = []
+        for sid in sids:
+            s = off_by_id.get(sid) or cur_by_id.get(sid)
+            artist = s.get("artist") or ""
+            for p in pages:
+                score = 0
+                if exact_title_key(p["display_title"]) == exact_title_key(s["title"]):
+                    score += 2
+                page_artist = remy_artist(cache.get(p["page"], ""))
+                if artist and page_artist and norm_title(page_artist) == norm_title(artist):
+                    score += 2
+                if score >= 2:
+                    triples.append((score, sid, p))
+        triples.sort(key=lambda t: -t[0])
+        used_page_objs = set()
+        for score, sid, p in triples:
+            if sid in assigned or id(p) in used_page_objs:
+                continue
+            assigned[sid] = (p, "exact_norm_disambiguated")
+            used_page_objs.add(id(p))
+        group = {"norm_title": key, "pages": [p["page"] for p in pages], "songs": []}
+        for sid in sids:
+            s = off_by_id.get(sid) or cur_by_id.get(sid)
+            if sid not in assigned:
+                assigned[sid] = (None, None)
+            group["songs"].append({
+                "id": sid, "title": s["title"], "artist": s.get("artist") or "",
+                "assigned_page": assigned[sid][0]["page"] if assigned[sid][0] else None,
+            })
+        collisions.append(group)
+    report["remy_title_collisions"] = collisions
+
     for sid in all_ids:
         off = off_by_id.get(sid)
         cur = cur_by_id.get(sid)
         title = (off or cur)["title"]
-        r = remy_by_norm.get(norm_title(title))
-        match_method = "exact_norm" if r else None
-        if not r:
+        if sid in assigned:
+            r, match_method = assigned[sid]
+        else:
+            r = remy_by_norm.get(norm_title(title))
+            match_method = "exact_norm" if r else None
+        if not r and sid not in assigned:
+            # The loose fallback must not undo a collision decision:
+            # a same-title song that was deliberately left unpaired
+            # would otherwise re-grab its sibling's page here.
             cands = remy_by_loose.get(loose_title(title), [])
             if len(cands) == 1:
                 r = cands[0]
